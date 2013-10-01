@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<data>
+  <event start="Jan 1 1804 00:00:00 GMT" caption="Bulfinch Plan for Boston Common" isDuration="false" icon="../img/bp-cat6-8px.png">Bulfinch Plan for Boston Common</event>
+  <event start="Jan 1 1837 00:00:00 GMT" caption="Public Garden" isDuration="false" icon="../img/bp-cat6-8px.png">Public Garden</event>
+  <event start="Jan 1 1848 00:00:00 GMT" caption="Forest Hills Cemetary" isDuration="false" icon="../img/bp-cat6-8px.png">Forest Hills Cemetary</event>
+  <event start="Jan 1 1867 00:00:00 GMT" caption="Cedar Grove Cemetary" isDuration="false" icon="../img/bp-cat6-8px.png">Cedar Grove Cemetary</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Arnold Arboretum" isDuration="false" icon="../img/bp-cat6-8px.png">Arnold Arboretum</event>
+  <event start="Jan 1 1873 00:00:00 GMT" caption="Post Office Square" isDuration="false" icon="../img/bp-cat6-8px.png">Post Office Square</event>
+  <event start="Jan 1 1875 00:00:00 GMT" caption="Park commission established" isDuration="false" icon="../img/bp-cat6-8px.png">Park commission established</event>
+  <event start="Jan 1 1878 00:00:00 GMT" caption="Olmstead contracts with Parks Commission" isDuration="false" icon="../img/bp-cat6-8px.png">Olmstead contracts with Parks Commission</event>
+  <event start="Jan 1 1879 00:00:00 GMT" caption="Back Bay Fens marks beginning of Emerald Necklace Construction" isDuration="false" icon="../img/bp-cat6-8px.png">Back Bay Fens marks beginning of Emerald Necklace Construction</event>
+  <event start="Jan 1 1882 00:00:00 GMT" caption="City of Boston assembles private land to create Copley Square (and prevent hotel building in front of Trinity Church)" isDuration="false" icon="../img/bp-cat6-8px.png">City of Boston assembles private land to create Copley Square (and prevent hotel building in front of Trinity Church)</event>
+  <event start="Jan 1 1885 00:00:00 GMT" caption="Mayor O'Brien instructs city to purchase undeveloped land on city edges for parks. incl. Stony Brook Reservation. George Wright Golf Course. cemetaries" isDuration="false" icon="../img/bp-cat6-8px.png">Mayor O'Brien instructs city to purchase undeveloped land on city edges for parks. incl. Stony Brook Reservation. George Wright Golf Course. cemetaries</event>
+  <event start="Jan 1 1886 00:00:00 GMT" caption="Jamaica Pond purchased by the city" isDuration="false" icon="../img/bp-cat6-8px.png">Jamaica Pond purchased by the city</event>
+  <event start="Jan 1 1890 00:00:00 GMT" caption="Castle Island" isDuration="false" icon="../img/bp-cat6-8px.png">Castle Island</event>
+  <event start="Jan 1 1891 00:00:00 GMT" caption="Dorchester Park and Wood Island Park" isDuration="false" icon="../img/bp-cat6-8px.png">Dorchester Park and Wood Island Park</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="Charlesbank Park; Arborway completed" isDuration="false" icon="../img/bp-cat6-8px.png">Charlesbank Park; Arborway completed</event>
+  <event start="Jan 1 1893 00:00:00 GMT" caption="Mass Parks Commission. Mass Highway Commission created" isDuration="false" icon="../img/bp-cat6-8px.png">Mass Parks Commission. Mass Highway Commission created</event>
+  <event start="Jan 1 1894 00:00:00 GMT" caption="Fens Completed" isDuration="false" icon="../img/bp-cat6-8px.png">Fens Completed</event>
+  <event start="Jan 1 1895 00:00:00 GMT" caption="Wood Island Park; Middlesex Fells" isDuration="false" icon="../img/bp-cat6-8px.png">Wood Island Park; Middlesex Fells</event>
+  <event start="Jan 1 1896 00:00:00 GMT" caption="Emerald Necklace completed" isDuration="false" icon="../img/bp-cat6-8px.png">Emerald Necklace completed</event>
+  <event start="Jan 1 1898 00:00:00 GMT" caption="comprehensive playground program begins" isDuration="false" icon="../img/bp-cat6-8px.png">comprehensive playground program begins</event>
+  <event start="Jan 1 1899 00:00:00 GMT" caption="Cleary Square" isDuration="false" icon="../img/bp-cat6-8px.png">Cleary Square</event>
+  <event start="Jan 1 1909 00:00:00 GMT" caption="Savin Hill Park" isDuration="false" icon="../img/bp-cat6-8px.png">Savin Hill Park</event>
+  <event start="Jan 1 1913 00:00:00 GMT" caption="Franklin Park Zoo" isDuration="false" icon="../img/bp-cat6-8px.png">Franklin Park Zoo</event>
+  <event start="Jan 1 1919 00:00:00 GMT" caption="MDC created" isDuration="false" icon="../img/bp-cat6-8px.png">MDC created</event>
+  <event start="Jan 1 1930 00:00:00 GMT" caption="Columbus/Moakley Park" isDuration="false" icon="../img/bp-cat6-8px.png">Columbus/Moakley Park</event>
+  <event start="Jan 1 1939 00:00:00 GMT" caption="George Wright golf course in Hyde Park" isDuration="false" icon="../img/bp-cat6-8px.png">George Wright golf course in Hyde Park</event>
+  <event start="Jan 1 1941 00:00:00 GMT" caption="Victory Gardens in Fenway" isDuration="false" icon="../img/bp-cat6-8px.png">Victory Gardens in Fenway</event>
+  <event start="Jan 1 1959 00:00:00 GMT" caption="Pleasure Bay enclosed" isDuration="false" icon="../img/bp-cat6-8px.png">Pleasure Bay enclosed</event>
+  <event start="Jan 1 1969 00:00:00 GMT" caption="Logan Airport expansion completely destroys Wood Island Park" isDuration="false" icon="../img/bp-cat6-8px.png">Logan Airport expansion completely destroys Wood Island Park</event>
+  <event start="Jan 1 1976 00:00:00 GMT" caption="Waterfront/Christopher Columbus Park" isDuration="false" icon="../img/bp-cat6-8px.png">Waterfront/Christopher Columbus Park</event>
+  <event start="Jan 1 1980 00:00:00 GMT" caption="Shipyard Park at Charlestown Navy Yard" isDuration="false" icon="../img/bp-cat6-8px.png">Shipyard Park at Charlestown Navy Yard</event>
+  <event start="Jan 1 1986 00:00:00 GMT" caption="Belle Isle Marsh Reservation" isDuration="false" icon="../img/bp-cat6-8px.png">Belle Isle Marsh Reservation</event>
+  <event start="Jan 1 1989 00:00:00 GMT" caption="Southwest Corridor Park" isDuration="false" icon="../img/bp-cat6-8px.png">Southwest Corridor Park</event>
+  <event start="Jan 1 1991 00:00:00 GMT" caption="Post Office Square Park" isDuration="false" icon="../img/bp-cat6-8px.png">Post Office Square Park</event>
+  <event start="Jan 1 1995 00:00:00 GMT" caption="Piers Park" isDuration="false" icon="../img/bp-cat6-8px.png">Piers Park</event>
+  <event start="Jan 1 2000 00:00:00 GMT" caption="Millenium Park" isDuration="false" icon="../img/bp-cat6-8px.png">Millenium Park</event>
+  <event start="Jan 1 2001 00:00:00 GMT" caption="Pope John Paul II park" isDuration="false" icon="../img/bp-cat6-8px.png">Pope John Paul II park</event>
+</data>

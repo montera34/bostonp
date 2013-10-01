@@ -1,0 +1,429 @@
+Population,1800,1800,24.937
+Population,1810,1810,33.787
+Population,1820,1820,43.298
+Population,1830,1830,61.392
+Population,1840,1840,93.383
+Population,1850,1850,136.881
+Population,1860,1860,177.82
+Population,1870,1870,250.526
+Population,1880,1880,362.839
+Population,1890,1890,448.477
+Population,1900,1900,560.892
+Landmaking,1802,1802,First attempt at filling the neck falters
+Landmaking,1804,1804,Front St/Harrison Ave
+Landmaking,1805,1805,India Wharf
+Landmaking,1805,1805,Broad st
+Landmaking,1806,1806,Charles St
+Landmaking,1807,1807,Mill Pond -> Bulfinch Triangle (completed 1828)
+Landmaking,1807,1807,Independence Wharf
+Landmaking,1817,1817,Central Wharf
+Landmaking,1821,1821,Mill Dam (Beacon St)
+Landmaking,1823,1823,Fill for Quincy Market
+Landmaking,1825,1825,Church St area
+Landmaking,1826,1826,Bay Village fill
+Landmaking,1827,1827,W 4th st area. South Boston
+Landmaking,1833,1833,East Boston fill begins
+Landmaking,1833,1833,South Cove begins
+Landmaking,1834,1834,Public Garden Fill
+Landmaking,1836,1836,Castle Sq
+Landmaking,1837,1837,Custom House fill
+Landmaking,1838,1838,West End west of Brighton St
+Landmaking,1843,1843,South Cove completed
+Landmaking,1845,1845,South Bay fill begins
+Landmaking,1848,1848,South End fill
+Landmaking,1850,1850,Docks filled on waterfront
+Landmaking,1852,1852,Commission appointed to study Back Bay filling
+Landmaking,1854,1854,South Bay and Fort Point filling
+Landmaking,1857,1857,Back Bay Construction begins
+Landmaking,1859,1859,Fill completed to Berkeley St
+Landmaking,1860,1860,Fill completed to Clarendon St
+Landmaking,1860,1860,Charlestown filling begins
+Landmaking,1861,1861,Albany St extension begins
+Landmaking,1862,1862,MGH flats filled
+Landmaking,1865,1865,East side of South Bay 
+Landmaking,1868,1868,Albany St extension complete
+Landmaking,1870,1870,Fill completed to Exeter St
+Landmaking,1870,1870,Flats around MGH completely filled
+Landmaking,1872,1872,Atlantic Avenue
+Landmaking,1872,1872,Fan Pier filling begins
+Landmaking,1875,1875,Prison Point Bay filled
+Landmaking,1878,1878,Fan Pier complete
+Landmaking,1882,1882,South Boston flats project begins
+Landmaking,1883,1883,Charlesbank
+Landmaking,1883,1883,T-Wharf
+Landmaking,1886,1886,Receiving Basin portion of Back Bay completely filled
+Landmaking,1888,1888,South Boston flats project completed
+Landmaking,1889,1889,Bay State Road area
+Landmaking,1889,1889,Northern Avenue section of South Boston flats begins
+Landmaking,1902,1902,Charles River Dam
+Landmaking,1902,1903,Filling for Columbia Rd and Day Blvd completed
+Landmaking,1911,1911,Cambridge MIT fill???
+Landmaking,1915,1915,East Boston flats filling begins for shipping terminal but eventually houses airport
+Landmaking,1917,1917,Old Harbor Beach in South Boston
+Landmaking,1921,1921,South Bay west of Dot Ave
+Landmaking,1933,1933,Esplanade Widened
+Landmaking,1938,1938,Deer Island connected to Winthrop as result of the Great New England Hurricane
+Landmaking,1948,1948,Airport?
+City Boundaries,1804,1804,South Boston
+City Boundaries,1807,1807,Brighton leaves Cambridge
+City Boundaries,1813,1813,When did Everett get moved??
+City Boundaries,1825,1825,Stoneham secedes from Charlestown
+City Boundaries,1834,1834,Thompson Island. taken from Dorchester
+City Boundaries,1838,1838,1800 acres along Charles River ceded from Newton to Roxbury
+City Boundaries,1842,1842,Somerville seperates from Charlestown
+City Boundaries,1846,1846,North Chelsea
+City Boundaries,1851,1851,West Roxbury (incl. Jamaica Plain and Roslindale) secedes from Roxbury. fearing annexation to Boston
+City Boundaries,1855,1855,Andrew Square. annexed from Dorchester
+City Boundaries,1856,1856,Boston voters reject annexation of Chelsea
+City Boundaries,1857,1857,Chelsea incorporated as a city
+City Boundaries,1867,1867,Eastern part of Brighton named Allston
+City Boundaries,1868,1868,"Roxbury annexed to Boston, Hyde Park incorporated from land ceded by Dedham. Dorchester and Milton"
+City Boundaries,1870,1870,Dorchester (incl Mattapan); Kenmore Sq annexed from Brookline to Boston; Roslindale named in West Roxbury; Everett leaves Malden
+City Boundaries,1871,1871,North Chelsea
+City Boundaries,1872,1872,Mt Hope Cemetary area of West Roxbury
+City Boundaries,1874,1874,Charlestown. Brighton. West Roxbury (incl JP and Roslindale) annexed; Brookline refuses but cedes land along Com Ave
+City Boundaries,1881,1881,when does cambridge propose/reject?
+City Boundaries,1891,1891,Medford Incorporates as City
+City Boundaries,1892,1892,Everett Incorporates as City
+City Boundaries,1912,1912,Hyde Park
+City Boundaries,1986,1986,"First ""Mandela"" secession attempt (fails again in 1988 and 1990)"
+Clearance,1803,1803,Mount Vernon (Mt Whoredom)
+Clearance,1824,1824,Eminent domain used for renewal of Faneuil Hall area
+Clearance,1835,1835,Pemberton Hill
+Clearance,1866,1872,Fort Hill
+Clearance,1871,1871,Demolition of Scollay Building leaves space known as Scollay Square
+Clearance,1872,1872,Great Boston fire destroys 776 buildings on 65 acres downtown
+Clearance,1892,1892,Slum clearance begins under Mayor Quincy. 230 buildings demolished
+Clearance,1908,1908,Great Chelsea fire destroys 492 acres. displaces Jewish community
+Clearance,1947,1947,BHA announces New York Streets urban renewal
+Clearance,1949,1949,Congress passes Title 1 of Federal Housing Act. spurring urban renewal projects
+Clearance,1951,1951,Central Artery demolition
+Clearance,1952,1952,Chester Sq in South End demolished for Mass Ave widening
+Clearance,1958,1958,West End Demolition
+Clearance,1959,1959,Gov't Center plan released
+Clearance,1960,1960,West End Demolition completed
+Clearance,1962,1962,Residents reject South End renewal plan
+Clearance,1962,1962,Scollay Sq demolished for Gov't Center
+Clearance,1963,1963,Roxbury Urban Renewal. incl MLK Blvd
+Clearance,1964,1964,"New York Streets urban renewal ""completed"""
+Clearance,1965,1965,Wood Island cleared for Logan expansion
+Clearance,1965,1965,Charlestown urban renewal. significantly scaled down in response to local opposition
+Clearance,1966,1966,Demolition begins for Southwest Expressway and Inner Belt
+Clearance,1968,1968,Tent City demonstrations
+Clearance,1973,1973,Tai Tung Village opens
+Clearance,1973,1973,2nd Great Chelsea Fire destroys 18 blocks
+Clearance,1974,1974,Combat Zone established as Adult Entertainment District
+Clearance,1982,1982,Villa Victoria opens
+Clearance,1982,1982,"200 fires lead to NYTimes calling Boston ""arson capital of the world"""
+Clearance,1988,1988,Harbor Point replaces Columbia Point
+Clearance,1988,1988,BHA grants DSNI power of eminent domain
+Notable Buildings,1800,1800,Grove Hall is built as a country house
+Notable Buildings,1805,1805,Bulfinch develops Park St area
+Notable Buildings,1806,1806,Bulfinch's Faneuil Hall
+Notable Buildings,1832,1832,Town almshouse. House of Correction. and an insane asylum all sited in South Boston
+Notable Buildings,1837,1837,Custom House?
+Notable Buildings,1842,1842,Bunker Hill Monument
+Notable Buildings,1842,1842,Merchant's Exchange Building
+Notable Buildings,1843,1843,1.000 buildings completed as rapid growth begins.
+Notable Buildings,1844,1844,Over 1.000 buildings completed. growth increases over several years
+Notable Buildings,1846,1846,Howard Athenaeum in Scollay Sq
+Notable Buildings,1847,1847,Long Wharf Immigration Station
+Notable Buildings,1847,1847,Custom House
+Notable Buildings,1851,1851,Fort Warren on George's Island
+Notable Buildings,1853,1853,Hyde Park Land Company begins developing an area of Dorchester that eventually becomes Hyde Park
+Notable Buildings,1855,1855,Fairmount Company buys land from Milton to build part of Hyde Park
+Notable Buildings,1857,1857,"Hotel Pelham. introduces ""French Flat"" apartment house to Boston"
+Notable Buildings,1865,1865,Old City Hall
+Notable Buildings,1867,1867,cornerstone laid for Cathedral of the Holy Cross
+Notable Buildings,1869,1869,Great Coliseum
+Notable Buildings,1870,1870,Streetcar suburb growth 1870-1900
+Notable Buildings,1871,1871,Mission Church
+Notable Buildings,1873,1873,450 Buildings constructed in fire zone
+Notable Buildings,1874,1874,Completed landmaking allows and the Great Fire necessitates moving and establishment of institutions to Copley Square and Back Bay
+Notable Buildings,1875,1875,Cathedral of the Holy Cross opens
+Notable Buildings,1876,1876,MFA in Copley
+Notable Buildings,1877,1877,Trinity Church. Copley
+Notable Buildings,1880,1880,The three-decker housing form appears in Boston
+Notable Buildings,1882,1882,Old State House rededicated
+Notable Buildings,1884,1884,Cyclorama Building
+Notable Buildings,1889,1889,14 story Ames Building on Court St tallest in Boston. last tower before steel-framed construction
+Notable Buildings,1891,1891,composer streets
+Notable Buildings,1892,1892,125' Height Limit
+Notable Buildings,1893,1893,Winthrop Building at 276-278 Washington Boston's 1st steel-framed skyscraper
+Notable Buildings,1894,1894,Mission Hill area
+Notable Buildings,1895,1895,Copley BPL opens
+Notable Buildings,1898,1898,90' Height Limit in Back Bay
+Notable Buildings,1899,1899,South Station
+Notable Buildings,1904,1904,Boston institutes height limits. first US city to use this kind of zoning
+Notable Buildings,1906,1906,First Church of Christ. Scientist
+Notable Buildings,1909,1909,MFA on Huntington
+Notable Buildings,1915,1915,Custom House Tower addition completed; Braves field
+Notable Buildings,1918,1918,Strand Theater
+Notable Buildings,1919,1919,Chinese merchants building
+Notable Buildings,1922,1922,Boston Latin in Fenway
+Notable Buildings,1923,1923,Downtown height limit increased to 155 ft
+Notable Buildings,1926,1926,Set-back requirements end building of traditional three-decker
+Notable Buildings,1928,1928,North Station; Boston Garden
+Notable Buildings,1935,1935,BHA created
+Notable Buildings,1938,1938,Old Harbor opens. 1st federal public housing in US
+Notable Buildings,1939,1939,Pemberton Sq courthouse
+Notable Buildings,1940,1940,Citgo sign
+Notable Buildings,1942,1942,New England Mutual Life Insurance Building
+Notable Buildings,1945,1945,Orchard Park
+Notable Buildings,1947,1947,Old
+Notable Buildings,1948,1948,BU move to Com Ave location
+Notable Buildings,1949,1949,"West Broadway ""D St"" projects open"
+Notable Buildings,1951,1951,Archdale. Cathedral. and Commonwealth housing projects open
+Notable Buildings,1952,1952,Franklin Hill. Alice Taylor. and Orient Heights projects open
+Notable Buildings,1953,1953,Whittier St housing project
+Notable Buildings,1954,1954,Bromley Park. Columbia Point. and Franklin Field projects
+Notable Buildings,1959,1959,Travelers Building. first major office building in 12 years
+Notable Buildings,1962,1962,Charles River Park
+Notable Buildings,1965,1965,Prudential Center. tallest building outside Manhattan
+Notable Buildings,1969,1969,new City Hall opens
+Notable Buildings,1971,1971,Harbor Towers
+Notable Buildings,1974,1974,Mishawum Park (Charlestown) housing project
+Notable Buildings,1976,1976,Quincy Market renovation
+Notable Buildings,1977,1977,Madison Park High School
+Notable Buildings,1979,1979,JFK Library
+Notable Buildings,1986,1986,BRA announces South End Neighborhood Housing Initiative
+Notable Buildings,1995,1995,Boston Garden closes
+Notable Buildings,1997,1997,Archdiocese-built Lowell Sq housing development 1st affordable housing in West End since demolition
+Notable Buildings,1998,1998,Moakley Courthouse
+Notable Buildings,1999,1999,Grove Hall Mall
+Notable Buildings,2003,2003,Orchard Gardens Elementary. 1st new school in Roxbury in 50 years
+Notable Buildings,2004,2004,Boston Convention and Exhibition Center
+Notable Buildings,1892,1892,Grainary Exchange Building
+Notable Buildings,1894,1894,Suffolk County Courthouse in Pemberton Sq
+Notable Buildings,1895,1895,Ferdinand Building. Dudley Sq
+Notable Buildings,1928,1928,Temple Israel on Riverway
+Notable Buildings,1940,1940,Charlestown. Lenox St. Mission Main. and Old Colony Housing Projects open
+Notable Buildings,1942,1942,Orchard Park. Heath St. Maverick housing projects open
+Notable Buildings,1947,1947,Boston Trailer Park in West Roxbury. currently only remaining mobile home park in Boston
+Notable Buildings,1965,1965,Hynes Convention Center
+Notable Buildings,1969,1969,New England Aquarium
+Notable Buildings,1971,1971,Park Plaza development stopped
+Notable Buildings,1976,1976,Hancock Tower
+Notable Buildings,1999,1999,New Chardon St Courthouse
+Transportation & Infrastructure,1800,1800,Charlestown Navy Yard
+Transportation & Infrastructure,1803,1803,Chelsea-Charlestown Bridge
+Transportation & Infrastructure,1803,1803,Middlesex Canal
+Transportation & Infrastructure,1803,1803,Salem Turnpike
+Transportation & Infrastructure,1804,1804,Dover St bridge connects to South Boston
+Transportation & Infrastructure,1804,1804,Milton Turnpike. now Dorchester Ave
+Transportation & Infrastructure,1807,1807,Worcester Turnpike. now rt 9
+Transportation & Infrastructure,1809,1809,Craigie Bridge
+Transportation & Infrastructure,1810,1810,Broad Canal opens access to East Cambridge industry
+Transportation & Infrastructure,1811,1811,Boston requires registration of all trucks and sleds
+Transportation & Infrastructure,1815,1815,Prison point bridge
+Transportation & Infrastructure,1820,1820,Horse-drawn coaches run on set schedules to nearby towns
+Transportation & Infrastructure,1825,1825,MA decides not to build canal from Harbor to CT River and Hudson River
+Transportation & Infrastructure,1826,1826,Granite Railway in Quincy is 1st commercial railroad in US
+Transportation & Infrastructure,1826,1826,omnibus service begins in Boston
+Transportation & Infrastructure,1828,1828,Federal St bridge to South Boston
+Transportation & Infrastructure,1828,1828,Warren St bridge to Charlestown
+Transportation & Infrastructure,1831,1831,Whale oil street lamps replaced by gaslights
+Transportation & Infrastructure,1831,1831,
+Transportation & Infrastructure,1832,1832,Tremont St between Boston and Roxbury. gives relief to Washington St
+Transportation & Infrastructure,1833,1833,municipal ferry service to East Boston
+Transportation & Infrastructure,1834,1834,Chelsea St bridge
+Transportation & Infrastructure,1835,1835,public Railroads become operational
+Transportation & Infrastructure,1838,1838,Eastern Railoard. East Boston to Salem
+Transportation & Infrastructure,1839,1839,commuter service on railroad begins
+Transportation & Infrastructure,1839,1839,horse-drawn streetcars reach Roxbury
+Transportation & Infrastructure,1840,1840,Gas lines
+Transportation & Infrastructure,1840,1840,shipping lines between East Boston and Liverpool open. contributing to Boston's place as a primary destination for Irish immigrants
+Transportation & Infrastructure,1841,1841,Boston connected to Albany by rail
+Transportation & Infrastructure,1846,1846,Aquaduct construction begins
+Transportation & Infrastructure,1846,1846,
+Transportation & Infrastructure,1848,1848,Aquaduct from Lake Cochituate to Boston completed
+Transportation & Infrastructure,1848,1848,
+Transportation & Infrastructure,1849,1849,Grand Junction Railroad
+Transportation & Infrastructure,1849,1849,Paul's Bridge. Hyde Park to Milton
+Transportation & Infrastructure,1851,1851,Boston's 96 mile sewer system completed
+Transportation & Infrastructure,1851,1851,Great Railroad Jubilee
+Transportation & Infrastructure,1852,1852,first city fire alarm system
+Transportation & Infrastructure,1852,1852,last boat passes through Middlesex Canal
+Transportation & Infrastructure,1853,1853,horse drawn streetcars
+Transportation & Infrastructure,1855,1855,Mount Washington Bridge over Fort Point Channel
+Transportation & Infrastructure,1856,1856,Horsedrawn streetcars expand rapidly
+Transportation & Infrastructure,1856,1856,Meridian St Bridge
+Transportation & Infrastructure,1859,1859,Lynn and Boston Street Railway
+Transportation & Infrastructure,1860,1860,Charlestown-Somerville-Medford street railway
+Transportation & Infrastructure,1860,1860,Streetcar ridership 13 million
+Transportation & Infrastructure,1866,1866,Atlantic Telegraph Cable completed
+Transportation & Infrastructure,1866,1866,L Street Bathhouse. 1st free municipal public baths in US
+Transportation & Infrastructure,1867,1867,Chelsea municipal water
+Transportation & Infrastructure,1868,1868,Lawrence Basin Reservoir at Chestnut Hill
+Transportation & Infrastructure,1869,1869,Broadway Bridge
+Transportation & Infrastructure,1870,1870,1st through transcontinental train leaves Boston for San Francisco
+Transportation & Infrastructure,1872,1872,Equine influenza brings transporation to a halt
+Transportation & Infrastructure,1872,1872,Huntington Ave laid out
+Transportation & Infrastructure,1875,1875,Congress St Bridge
+Transportation & Infrastructure,1876,1876,1st telephone exchange opens with 6 subscribers
+Transportation & Infrastructure,1876,1876,
+Transportation & Infrastructure,1880,1880,Boston rejects elevated steam-powered railroad
+Transportation & Infrastructure,1880,1880,Streetcar ridership exceeds 62 million;
+Transportation & Infrastructure,1883,1883,Calf Pasture Pumping Station. 1st sewage pumping station in Boston
+Transportation & Infrastructure,1884,1884,Main Drainage System. connected to pumping station at Moon Island most modern system of its time
+Transportation & Infrastructure,1885,1885,Boston completes America's 1st main drainage system. deposits sewage off Moon Island
+Transportation & Infrastructure,1885,1885,
+Transportation & Infrastructure,1887,1887,West End Railway consolidates street cars
+Transportation & Infrastructure,1888,1888,1st Electric Streetcar
+Transportation & Infrastructure,1888,1888,Boston Electric Light Company. generating station on L st
+Transportation & Infrastructure,1890,1890,Telephone service widely available
+Transportation & Infrastructure,1890,1890,
+Transportation & Infrastructure,1891,1891,Rapid Transit Commission formed
+Transportation & Infrastructure,1891,1891,West End Railway's elevated line proposal defeated despite legislative approval
+Transportation & Infrastructure,1892,1892,Electric streetcars begin operation in South Boston
+Transportation & Infrastructure,1892,1892,Garbage processing plant opens on Moon Island
+Transportation & Infrastructure,1892,1892,L St Bridge
+Transportation & Infrastructure,1893,1893,Bathhouse &playground construction under Quincy
+Transportation & Infrastructure,1893,1893,
+Transportation & Infrastructure,1894,1894,Jamaicaway Completed
+Transportation & Infrastructure,1894,1894,most horsedrawn streetcars disappear; 90% electrified. 137 million passengers
+Transportation & Infrastructure,1895,1895,constuction on subway begins
+Transportation & Infrastructure,1895,1895,Revere Beach Parkway
+Transportation & Infrastructure,1896,1896,Boston is first city to completely electify streetcar system
+Transportation & Infrastructure,1896,1896,Electric streetcars extend from Forest Hills to West Roxbury
+Transportation & Infrastructure,1897,1897,America's First Subway opens
+Transportation & Infrastructure,1897,1897,State commission declares needs of Boston port facilities. results in Noddle's Island fill and plans for a pier on South Boston flats
+Transportation & Infrastructure,1898,1898,Subway extended to North Station
+Transportation & Infrastructure,1898,1898,Sudbury Reservoir replaces Lake Cochituate
+Transportation & Infrastructure,1899,1899,Automobiles arrive on the streets
+Transportation & Infrastructure,1899,1899,Back Bay Station opens
+Transportation & Infrastructure,1899,1899,South Station opens; reigns as largest and buisest rail station in the world for 2 decades
+Transportation & Infrastructure,1900,1900,Last horsecar line terminated
+Transportation & Infrastructure,1900,1900,Old Colony railroad bridge across Ft Point Channel
+Transportation & Infrastructure,1901,1901,Sullivan to Dudley and Atlantic Ave Elevated Lines Open
+Transportation & Infrastructure,1904,1904,Streetcar Tunnel to East Boston opens
+Transportation & Infrastructure,1905,1905,Boston-Worcester streetcar service begins
+Transportation & Infrastructure,1906,1906,Wachusett Reservoir opens
+Transportation & Infrastructure,1906,1906,
+Transportation & Infrastructure,1908,1908,Northern Avenue bridge to South Boston
+Transportation & Infrastructure,1908,1908,state first proposes system of radial and circumferential highways
+Transportation & Infrastructure,1909,1909,Dana Ave bridge over Neponset
+Transportation & Infrastructure,1909,1909,El extended from Dudley to Forest Hills
+Transportation & Infrastructure,1910,1910,Charles River Dam
+Transportation & Infrastructure,1910,1910,
+Transportation & Infrastructure,1912,1912,Boston fish pier. largest in world at time
+Transportation & Infrastructure,1912,1912,Garbage processing plant moved to Spectacle Island
+Transportation & Infrastructure,1912,1912,Park St to Harvard Subway opens; Green line to Lechmere via East Cambridge viaduct
+Transportation & Infrastructure,1913,1913,Commonwealth Pier opens to accommodate ocean liners
+Transportation & Infrastructure,1913,1913,
+Transportation & Infrastructure,1914,1914,Green Line subway extends to Kenmore Sq
+Transportation & Infrastructure,1917,1917,Red Line extends to Broadway
+Transportation & Infrastructure,1919,1919,El extended to Everett
+Transportation & Infrastructure,1921,1921,Charles St widened
+Transportation & Infrastructure,1922,1922,BERC takes over WER
+Transportation & Infrastructure,1922,1922,First Motor Bus route
+Transportation & Infrastructure,1923,1923,Boston airport opens
+Transportation & Infrastructure,1923,1923,Morrissey Blvd (nee Old Colony Pkway)
+Transportation & Infrastructure,1924,1924,East Boston tunnel converted to rapid transit
+Transportation & Infrastructure,1926,1926,Quabbin Reservoir construction begins
+Transportation & Infrastructure,1926,1926,Weeks footbridge
+Transportation & Infrastructure,1927,1927,First commercial passenger flights at Boston airport
+Transportation & Infrastructure,1927,1927,Old Rt 128
+Transportation & Infrastructure,1928,1928,Subway to Ashmont opens
+Transportation & Infrastructure,1929,1929,Ashmont-Mattapan trolley
+Transportation & Infrastructure,1930,1930,1st Central Artery proposal; 1st boston traffic light
+Transportation & Infrastructure,1930,1930,Boston-Worcester streetcar service discontinued
+Transportation & Infrastructure,1932,1932,Storrow Drive
+Transportation & Infrastructure,1934,1934,Sumner Tunnel
+Transportation & Infrastructure,1936,1936,1st Trackless Trolley line opens
+Transportation & Infrastructure,1938,1938,Atlantic Avenue El closes
+Transportation & Infrastructure,1938,1938,Planning Board recommends Central Artery
+Transportation & Infrastructure,1943,1943,Boston Airport expanded. renamed Logan
+Transportation & Infrastructure,1945,1945,South Station's peak travel year. services 45 million passengers (roughly beijing central's ridership)
+Transportation & Infrastructure,1946,1946,Quabbin Reservoir begins operation
+Transportation & Infrastructure,1947,1947,MTA created
+Transportation & Infrastructure,1948,1948,State publishes highway master plan calling for Storrow Dr. Central Artery. Inner Belt and Rt 128
+Transportation & Infrastructure,1950,1950,Greyhound bus station
+Transportation & Infrastructure,1950,1950,Mystic River/Tobin Bridge opens
+Transportation & Infrastructure,1951,1951,1st segment of limited-access highway 128 opens
+Transportation & Infrastructure,1951,1951,Central Artery construction begins
+Transportation & Infrastructure,1951,1951,Storrow Drive opens
+Transportation & Infrastructure,1952,1952,Buses replace streetcars in East Boston
+Transportation & Infrastructure,1952,1952,ferry service to East Boston ends
+Transportation & Infrastructure,1953,1953,Electric streetcar service in South Boston ends
+Transportation & Infrastructure,1954,1954,Blue line extends to Wonderland
+Transportation & Infrastructure,1956,1956,Central Artery opens
+Transportation & Infrastructure,1957,1957,MassPike west of 128 opens
+Transportation & Infrastructure,1959,1959,South Bay Incinerator
+Transportation & Infrastructure,1959,1959,Southeast Expressway opens
+Transportation & Infrastructure,1961,1961,Boston Common garage opens
+Transportation & Infrastructure,1961,1961,Callahan Tunnel
+Transportation & Infrastructure,1961,1961,Lenox St trolley discontinued
+Transportation & Infrastructure,1963,1963,I-93
+Transportation & Infrastructure,1963,1963,"Rt 3 ""Pilgrim's Highway"" completed"
+Transportation & Infrastructure,1964,1964,MBTA replaces MTA
+Transportation & Infrastructure,1965,1965,Mass Pike extension 128 to Central Artery
+Transportation & Infrastructure,1965,1965,MBTA introduces T logo and color-codes subway lines
+Transportation & Infrastructure,1967,1967,Boston Gas Company Tanks in Dorchester
+Transportation & Infrastructure,1968,1968,Deer Island Sewage Treatment plant
+Transportation & Infrastructure,1969,1969,"Green Line A train service ""temporarily"" suspended. never returns"
+Transportation & Infrastructure,1970,1970,Gov. Sargent declares moratorium on highway construction in Boston
+Transportation & Infrastructure,1971,1971,Red Line extends to Quincy Center
+Transportation & Infrastructure,1972,1972,all proposed Interstate Highways within Route 128 were canceled in 1972 by Governor Francis Sargent
+Transportation & Infrastructure,1973,1973,I-93 completed
+Transportation & Infrastructure,1974,1974,Logan terminal E. 2nd largest int'l arrivals facility in US
+Transportation & Infrastructure,1975,1975,Downtown parking cap established
+Transportation & Infrastructure,1980,1980,Red Line extends to Braintree
+Transportation & Infrastructure,1982,1982,Big Dig project officially begins
+Transportation & Infrastructure,1984,1984,MWRA created
+Transportation & Infrastructure,1985,1985,Red Line extends to Alewife
+Transportation & Infrastructure,1988,1988,Orange Line El demolished
+Transportation & Infrastructure,1991,1991,Big Dig construction begins
+Transportation & Infrastructure,1995,1995,Ted Williams Tunnel opens
+Transportation & Infrastructure,2002,2002,Silver Line bus to Dudley
+Transportation & Infrastructure,2003,2003,Big Dig tunnels open
+Transportation & Infrastructure,2003,2003,Ted Williams Tunnel
+Transportation & Infrastructure,2006,2006,Final Big Dig ramps completed
+Transportation & Infrastructure,2006,2006,State abandons support of North-South Rail Link
+Parks,1804,1804,Bulfinch Plan for Boston Common
+Parks,1837,1837,Public Garden
+Parks,1848,1848,Forest Hills Cemetary
+Parks,1867,1867,Cedar Grove Cemetary
+Parks,1872,1872,Arnold Arboretum
+Parks,1873,1873,Post Office Square
+Parks,1875,1875,Park commission established
+Parks,1878,1878,Olmstead contracts with Parks Commission
+Parks,1879,1879,Back Bay Fens marks beginning of Emerald Necklace Construction
+Parks,1882,1882,City of Boston assembles private land to create Copley Square (and prevent hotel building in front of Trinity Church)
+Parks,1885,1885,Mayor O'Brien instructs city to purchase undeveloped land on city edges for parks. incl. Stony Brook Reservation. George Wright Golf Course. cemetaries
+Parks,1886,1886,Jamaica Pond purchased by the city
+Parks,1890,1890,Castle Island
+Parks,1891,1891,Dorchester Park and Wood Island Park
+Parks,1892,1892,Charlesbank Park; Arborway completed
+Parks,1893,1893,Mass Parks Commission. Mass Highway Commission created
+Parks,1894,1894,Fens Completed
+Parks,1895,1895,Wood Island Park; Middlesex Fells
+Parks,1896,1896,Emerald Necklace completed
+Parks,1898,1898,comprehensive playground program begins
+Parks,1899,1899,Cleary Square
+Parks,1909,1909,Savin Hill Park
+Parks,1913,1913,Franklin Park Zoo
+Parks,1919,1919,MDC created
+Parks,1930,1930,Columbus/Moakley Park
+Parks,1939,1939,George Wright golf course in Hyde Park
+Parks,1941,1941,Victory Gardens in Fenway
+Parks,1959,1959,Pleasure Bay enclosed
+Parks,1969,1969,Logan Airport expansion completely destroys Wood Island Park
+Parks,1976,1976,Waterfront/Christopher Columbus Park
+Parks,1980,1980,Shipyard Park at Charlestown Navy Yard
+Parks,1986,1986,Belle Isle Marsh Reservation
+Parks,1989,1989,Southwest Corridor Park
+Parks,1991,1991,Post Office Square Park
+Parks,1995,1995,Piers Park
+Parks,2000,2000,Millenium Park
+Parks,2001,2001,Pope John Paul II park
+Ethnic Milestones,1803,1803,1st Catholic church in Boston opens
+Politics,1818,1818,Bulfinch leaves Boston to design US Capitol
+Economy,1803,1803,China Trade begins
+Economy,1993,1993,Boston Globe becomes a wholly owned subsidiary of NYTimes
+Education,1821,1821,Boston English High. first free public high school in US
+Medicine,1811,1811,MGH chartered
+Innovation,1839,1839,Steam Shovel invented near Boston
+Boston Events,1830,1830,Cows forbidden to graze on Common
+World Events,1812,1812,War of 1812
+World Events,1825,1825,Erie Canal opens; bolstering NYC and diminishing Boston

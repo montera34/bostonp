@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<data>
+  <event start="Jan 1 1803 00:00:00 GMT" caption="Mount Vernon (Mt Whoredom)" isDuration="false" icon="../img/bp-cat3-8px.png">Mount Vernon (Mt Whoredom)</event>
+  <event start="Jan 1 1824 00:00:00 GMT" caption="Eminent domain used for renewal of Faneuil Hall area" isDuration="false" icon="../img/bp-cat3-8px.png">Eminent domain used for renewal of Faneuil Hall area</event>
+  <event start="Jan 1 1835 00:00:00 GMT" caption="Pemberton Hill" isDuration="false" icon="../img/bp-cat3-8px.png">Pemberton Hill</event>
+  <event start="Jan 1 1866 00:00:00 GMT" caption="Fort Hill" isDuration="true" end="1872">Fort Hill</event>
+  <event start="Jan 1 1871 00:00:00 GMT" caption="Demolition of Scollay Building leaves space known as Scollay Square" isDuration="false" icon="../img/bp-cat3-8px.png">Demolition of Scollay Building leaves space known as Scollay Square</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Great Boston fire destroys 776 buildings on 65 acres downtown" isDuration="false" icon="../img/bp-cat3-8px.png">Great Boston fire destroys 776 buildings on 65 acres downtown</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="Slum clearance begins under Mayor Quincy. 230 buildings demolished" isDuration="false" icon="../img/bp-cat3-8px.png">Slum clearance begins under Mayor Quincy. 230 buildings demolished</event>
+  <event start="Jan 1 1908 00:00:00 GMT" caption="Great Chelsea fire destroys 492 acres. displaces Jewish community" isDuration="false" icon="../img/bp-cat3-8px.png">Great Chelsea fire destroys 492 acres. displaces Jewish community</event>
+  <event start="Jan 1 1947 00:00:00 GMT" caption="BHA announces New York Streets urban renewal" isDuration="false" icon="../img/bp-cat3-8px.png">BHA announces New York Streets urban renewal</event>
+  <event start="Jan 1 1949 00:00:00 GMT" caption="Congress passes Title 1 of Federal Housing Act. spurring urban renewal projects" isDuration="false" icon="../img/bp-cat3-8px.png">Congress passes Title 1 of Federal Housing Act. spurring urban renewal projects</event>
+  <event start="Jan 1 1951 00:00:00 GMT" caption="Central Artery demolition" isDuration="false" icon="../img/bp-cat3-8px.png">Central Artery demolition</event>
+  <event start="Jan 1 1952 00:00:00 GMT" caption="Chester Sq in South End demolished for Mass Ave widening" isDuration="false" icon="../img/bp-cat3-8px.png">Chester Sq in South End demolished for Mass Ave widening</event>
+  <event start="Jan 1 1958 00:00:00 GMT" caption="West End Demolition" isDuration="false" icon="../img/bp-cat3-8px.png">West End Demolition</event>
+  <event start="Jan 1 1959 00:00:00 GMT" caption="Gov't Center plan released" isDuration="false" icon="../img/bp-cat3-8px.png">Gov't Center plan released</event>
+  <event start="Jan 1 1960 00:00:00 GMT" caption="West End Demolition completed" isDuration="false" icon="../img/bp-cat3-8px.png">West End Demolition completed</event>
+  <event start="Jan 1 1962 00:00:00 GMT" caption="Residents reject South End renewal plan" isDuration="false" icon="../img/bp-cat3-8px.png">Residents reject South End renewal plan</event>
+  <event start="Jan 1 1962 00:00:00 GMT" caption="Scollay Sq demolished for Gov't Center" isDuration="false" icon="../img/bp-cat3-8px.png">Scollay Sq demolished for Gov't Center</event>
+  <event start="Jan 1 1963 00:00:00 GMT" caption="Roxbury Urban Renewal. incl MLK Blvd" isDuration="false" icon="../img/bp-cat3-8px.png">Roxbury Urban Renewal. incl MLK Blvd</event>
+  <event start="Jan 1 1964 00:00:00 GMT" caption="New York Streets urban renewal \&quot;completed\&quot;" isDuration="false" icon="../img/bp-cat3-8px.png">New York Streets urban renewal \"completed\"</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="Wood Island cleared for Logan expansion" isDuration="false" icon="../img/bp-cat3-8px.png">Wood Island cleared for Logan expansion</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="Charlestown urban renewal. significantly scaled down in response to local opposition" isDuration="false" icon="../img/bp-cat3-8px.png">Charlestown urban renewal. significantly scaled down in response to local opposition</event>
+  <event start="Jan 1 1966 00:00:00 GMT" caption="Demolition begins for Southwest Expressway and Inner Belt" isDuration="false" icon="../img/bp-cat3-8px.png">Demolition begins for Southwest Expressway and Inner Belt</event>
+  <event start="Jan 1 1968 00:00:00 GMT" caption="Tent City demonstrations" isDuration="false" icon="../img/bp-cat3-8px.png">Tent City demonstrations</event>
+  <event start="Jan 1 1973 00:00:00 GMT" caption="Tai Tung Village opens" isDuration="false" icon="../img/bp-cat3-8px.png">Tai Tung Village opens</event>
+  <event start="Jan 1 1973 00:00:00 GMT" caption="2nd Great Chelsea Fire destroys 18 blocks" isDuration="false" icon="../img/bp-cat3-8px.png">2nd Great Chelsea Fire destroys 18 blocks</event>
+  <event start="Jan 1 1974 00:00:00 GMT" caption="Combat Zone established as Adult Entertainment District" isDuration="false" icon="../img/bp-cat3-8px.png">Combat Zone established as Adult Entertainment District</event>
+  <event start="Jan 1 1982 00:00:00 GMT" caption="Villa Victoria opens" isDuration="false" icon="../img/bp-cat3-8px.png">Villa Victoria opens</event>
+  <event start="Jan 1 1982 00:00:00 GMT" caption="200 fires lead to NYTimes calling Boston \&quot;arson capital of the world\&quot;" isDuration="false" icon="../img/bp-cat3-8px.png">200 fires lead to NYTimes calling Boston \"arson capital of the world\"</event>
+  <event start="Jan 1 1988 00:00:00 GMT" caption="Harbor Point replaces Columbia Point" isDuration="false" icon="../img/bp-cat3-8px.png">Harbor Point replaces Columbia Point</event>
+  <event start="Jan 1 1988 00:00:00 GMT" caption="BHA grants DSNI power of eminent domain" isDuration="false" icon="../img/bp-cat3-8px.png">BHA grants DSNI power of eminent domain</event>
+</data>

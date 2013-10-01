@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<data>
+  <event start="Jan 1 1802 00:00:00 GMT" caption="First attempt at filling the neck falters" isDuration="false" icon="../img/bp-cat1-8px.png">First attempt at filling the neck falters</event>
+  <event start="Jan 1 1804 00:00:00 GMT" caption="Front St/Harrison Ave" isDuration="false" icon="../img/bp-cat1-8px.png">Front St/Harrison Ave</event>
+  <event start="Jan 1 1805 00:00:00 GMT" caption="India Wharf" isDuration="false" icon="../img/bp-cat1-8px.png">India Wharf</event>
+  <event start="Jan 1 1805 00:00:00 GMT" caption="Broad st" isDuration="false" icon="../img/bp-cat1-8px.png">Broad st</event>
+  <event start="Jan 1 1806 00:00:00 GMT" caption="Charles St" isDuration="false" icon="../img/bp-cat1-8px.png">Charles St</event>
+  <event start="Jan 1 1807 00:00:00 GMT" caption="Mill Pond -&gt; Bulfinch Triangle (completed 1828)" isDuration="false" icon="../img/bp-cat1-8px.png">Mill Pond -&gt; Bulfinch Triangle (completed 1828)</event>
+  <event start="Jan 1 1807 00:00:00 GMT" caption="Independence Wharf" isDuration="false" icon="../img/bp-cat1-8px.png">Independence Wharf</event>
+  <event start="Jan 1 1817 00:00:00 GMT" caption="Central Wharf" isDuration="false" icon="../img/bp-cat1-8px.png">Central Wharf</event>
+  <event start="Jan 1 1821 00:00:00 GMT" caption="Mill Dam (Beacon St)" isDuration="false" icon="../img/bp-cat1-8px.png">Mill Dam (Beacon St)</event>
+  <event start="Jan 1 1823 00:00:00 GMT" caption="Fill for Quincy Market" isDuration="false" icon="../img/bp-cat1-8px.png">Fill for Quincy Market</event>
+  <event start="Jan 1 1825 00:00:00 GMT" caption="Church St area" isDuration="false" icon="../img/bp-cat1-8px.png">Church St area</event>
+  <event start="Jan 1 1826 00:00:00 GMT" caption="Bay Village fill" isDuration="false" icon="../img/bp-cat1-8px.png">Bay Village fill</event>
+  <event start="Jan 1 1827 00:00:00 GMT" caption="W 4th st area. South Boston" isDuration="false" icon="../img/bp-cat1-8px.png">W 4th st area. South Boston</event>
+  <event start="Jan 1 1833 00:00:00 GMT" caption="East Boston fill begins" isDuration="false" icon="../img/bp-cat1-8px.png">East Boston fill begins</event>
+  <event start="Jan 1 1833 00:00:00 GMT" caption="South Cove begins" isDuration="false" icon="../img/bp-cat1-8px.png">South Cove begins</event>
+  <event start="Jan 1 1834 00:00:00 GMT" caption="Public Garden Fill" isDuration="false" icon="../img/bp-cat1-8px.png">Public Garden Fill</event>
+  <event start="Jan 1 1836 00:00:00 GMT" caption="Castle Sq" isDuration="false" icon="../img/bp-cat1-8px.png">Castle Sq</event>
+  <event start="Jan 1 1837 00:00:00 GMT" caption="Custom House fill" isDuration="false" icon="../img/bp-cat1-8px.png">Custom House fill</event>
+  <event start="Jan 1 1838 00:00:00 GMT" caption="West End west of Brighton St" isDuration="false" icon="../img/bp-cat1-8px.png">West End west of Brighton St</event>
+  <event start="Jan 1 1843 00:00:00 GMT" caption="South Cove completed" isDuration="false" icon="../img/bp-cat1-8px.png">South Cove completed</event>
+  <event start="Jan 1 1845 00:00:00 GMT" caption="South Bay fill begins" isDuration="false" icon="../img/bp-cat1-8px.png">South Bay fill begins</event>
+  <event start="Jan 1 1848 00:00:00 GMT" caption="South End fill" isDuration="false" icon="../img/bp-cat1-8px.png">South End fill</event>
+  <event start="Jan 1 1850 00:00:00 GMT" caption="Docks filled on waterfront" isDuration="false" icon="../img/bp-cat1-8px.png">Docks filled on waterfront</event>
+  <event start="Jan 1 1852 00:00:00 GMT" caption="Commission appointed to study Back Bay filling" isDuration="false" icon="../img/bp-cat1-8px.png">Commission appointed to study Back Bay filling</event>
+  <event start="Jan 1 1854 00:00:00 GMT" caption="South Bay and Fort Point filling" isDuration="false" icon="../img/bp-cat1-8px.png">South Bay and Fort Point filling</event>
+  <event start="Jan 1 1857 00:00:00 GMT" caption="Back Bay Construction begins" isDuration="false" icon="../img/bp-cat1-8px.png">Back Bay Construction begins</event>
+  <event start="Jan 1 1859 00:00:00 GMT" caption="Fill completed to Berkeley St" isDuration="false" icon="../img/bp-cat1-8px.png">Fill completed to Berkeley St</event>
+  <event start="Jan 1 1860 00:00:00 GMT" caption="Fill completed to Clarendon St" isDuration="false" icon="../img/bp-cat1-8px.png">Fill completed to Clarendon St</event>
+  <event start="Jan 1 1860 00:00:00 GMT" caption="Charlestown filling begins" isDuration="false" icon="../img/bp-cat1-8px.png">Charlestown filling begins</event>
+  <event start="Jan 1 1861 00:00:00 GMT" caption="Albany St extension begins" isDuration="false" icon="../img/bp-cat1-8px.png">Albany St extension begins</event>
+  <event start="Jan 1 1862 00:00:00 GMT" caption="MGH flats filled" isDuration="false" icon="../img/bp-cat1-8px.png">MGH flats filled</event>
+  <event start="Jan 1 1865 00:00:00 GMT" caption="East side of South Bay " isDuration="false" icon="../img/bp-cat1-8px.png">East side of South Bay </event>
+  <event start="Jan 1 1868 00:00:00 GMT" caption="Albany St extension complete" isDuration="false" icon="../img/bp-cat1-8px.png">Albany St extension complete</event>
+  <event start="Jan 1 1870 00:00:00 GMT" caption="Fill completed to Exeter St" isDuration="false" icon="../img/bp-cat1-8px.png">Fill completed to Exeter St</event>
+  <event start="Jan 1 1870 00:00:00 GMT" caption="Flats around MGH completely filled" isDuration="false" icon="../img/bp-cat1-8px.png">Flats around MGH completely filled</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Atlantic Avenue" isDuration="false" icon="../img/bp-cat1-8px.png">Atlantic Avenue</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Fan Pier filling begins" isDuration="false" icon="../img/bp-cat1-8px.png">Fan Pier filling begins</event>
+  <event start="Jan 1 1875 00:00:00 GMT" caption="Prison Point Bay filled" isDuration="false" icon="../img/bp-cat1-8px.png">Prison Point Bay filled</event>
+  <event start="Jan 1 1878 00:00:00 GMT" caption="Fan Pier complete" isDuration="false" icon="../img/bp-cat1-8px.png">Fan Pier complete</event>
+  <event start="Jan 1 1882 00:00:00 GMT" caption="South Boston flats project begins" isDuration="false" icon="../img/bp-cat1-8px.png">South Boston flats project begins</event>
+  <event start="Jan 1 1883 00:00:00 GMT" caption="Charlesbank" isDuration="false" icon="../img/bp-cat1-8px.png">Charlesbank</event>
+  <event start="Jan 1 1883 00:00:00 GMT" caption="T-Wharf" isDuration="false" icon="../img/bp-cat1-8px.png">T-Wharf</event>
+  <event start="Jan 1 1886 00:00:00 GMT" caption="Receiving Basin portion of Back Bay completely filled" isDuration="false" icon="../img/bp-cat1-8px.png">Receiving Basin portion of Back Bay completely filled</event>
+  <event start="Jan 1 1888 00:00:00 GMT" caption="South Boston flats project completed" isDuration="false" icon="../img/bp-cat1-8px.png">South Boston flats project completed</event>
+  <event start="Jan 1 1889 00:00:00 GMT" caption="Bay State Road area" isDuration="false" icon="../img/bp-cat1-8px.png">Bay State Road area</event>
+  <event start="Jan 1 1889 00:00:00 GMT" caption="Northern Avenue section of South Boston flats begins" isDuration="false" icon="../img/bp-cat1-8px.png">Northern Avenue section of South Boston flats begins</event>
+  <event start="Jan 1 1902 00:00:00 GMT" caption="Charles River Dam" isDuration="false" icon="../img/bp-cat1-8px.png">Charles River Dam</event>
+  <event start="Jan 1 1902 00:00:00 GMT" caption="Filling for Columbia Rd and Day Blvd completed" isDuration="true" end="1903">Filling for Columbia Rd and Day Blvd completed</event>
+  <event start="Jan 1 1911 00:00:00 GMT" caption="Cambridge MIT fill???" isDuration="false" icon="../img/bp-cat1-8px.png">Cambridge MIT fill???</event>
+  <event start="Jan 1 1915 00:00:00 GMT" caption="East Boston flats filling begins for shipping terminal but eventually houses airport" isDuration="false" icon="../img/bp-cat1-8px.png">East Boston flats filling begins for shipping terminal but eventually houses airport</event>
+  <event start="Jan 1 1917 00:00:00 GMT" caption="Old Harbor Beach in South Boston" isDuration="false" icon="../img/bp-cat1-8px.png">Old Harbor Beach in South Boston</event>
+  <event start="Jan 1 1921 00:00:00 GMT" caption="South Bay west of Dot Ave" isDuration="false" icon="../img/bp-cat1-8px.png">South Bay west of Dot Ave</event>
+  <event start="Jan 1 1933 00:00:00 GMT" caption="Esplanade Widened" isDuration="false" icon="../img/bp-cat1-8px.png">Esplanade Widened</event>
+  <event start="Jan 1 1938 00:00:00 GMT" caption="Deer Island connected to Winthrop as result of the Great New England Hurricane" isDuration="false" icon="../img/bp-cat1-8px.png">Deer Island connected to Winthrop as result of the Great New England Hurricane</event>
+  <event start="Jan 1 1948 00:00:00 GMT" caption="Airport?" isDuration="false" icon="../img/bp-cat1-8px.png">Airport?</event>
+</data>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<data>
+  <event start="Jan 1 1800 00:00:00 GMT" caption="Grove Hall is built as a country house" isDuration="false" icon="../img/bp-cat4-8px.png">Grove Hall is built as a country house</event>
+  <event start="Jan 1 1805 00:00:00 GMT" caption="Bulfinch develops Park St area" isDuration="false" icon="../img/bp-cat4-8px.png">Bulfinch develops Park St area</event>
+  <event start="Jan 1 1806 00:00:00 GMT" caption="Bulfinch's Faneuil Hall" isDuration="false" icon="../img/bp-cat4-8px.png">Bulfinch's Faneuil Hall</event>
+  <event start="Jan 1 1832 00:00:00 GMT" caption="Town almshouse. House of Correction. and an insane asylum all sited in South Boston" isDuration="false" icon="../img/bp-cat4-8px.png">Town almshouse. House of Correction. and an insane asylum all sited in South Boston</event>
+  <event start="Jan 1 1837 00:00:00 GMT" caption="Custom House?" isDuration="false" icon="../img/bp-cat4-8px.png">Custom House?</event>
+  <event start="Jan 1 1842 00:00:00 GMT" caption="Bunker Hill Monument" isDuration="false" icon="../img/bp-cat4-8px.png">Bunker Hill Monument</event>
+  <event start="Jan 1 1842 00:00:00 GMT" caption="Merchant's Exchange Building" isDuration="false" icon="../img/bp-cat4-8px.png">Merchant's Exchange Building</event>
+  <event start="Jan 1 1843 00:00:00 GMT" caption="1.000 buildings completed as rapid growth begins." isDuration="false" icon="../img/bp-cat4-8px.png">1.000 buildings completed as rapid growth begins.</event>
+  <event start="Jan 1 1844 00:00:00 GMT" caption="Over 1.000 buildings completed. growth increases over several years" isDuration="false" icon="../img/bp-cat4-8px.png">Over 1.000 buildings completed. growth increases over several years</event>
+  <event start="Jan 1 1846 00:00:00 GMT" caption="Howard Athenaeum in Scollay Sq" isDuration="false" icon="../img/bp-cat4-8px.png">Howard Athenaeum in Scollay Sq</event>
+  <event start="Jan 1 1847 00:00:00 GMT" caption="Long Wharf Immigration Station" isDuration="false" icon="../img/bp-cat4-8px.png">Long Wharf Immigration Station</event>
+  <event start="Jan 1 1847 00:00:00 GMT" caption="Custom House" isDuration="false" icon="../img/bp-cat4-8px.png">Custom House</event>
+  <event start="Jan 1 1851 00:00:00 GMT" caption="Fort Warren on George's Island" isDuration="false" icon="../img/bp-cat4-8px.png">Fort Warren on George's Island</event>
+  <event start="Jan 1 1853 00:00:00 GMT" caption="Hyde Park Land Company begins developing an area of Dorchester that eventually becomes Hyde Park" isDuration="false" icon="../img/bp-cat4-8px.png">Hyde Park Land Company begins developing an area of Dorchester that eventually becomes Hyde Park</event>
+  <event start="Jan 1 1855 00:00:00 GMT" caption="Fairmount Company buys land from Milton to build part of Hyde Park" isDuration="false" icon="../img/bp-cat4-8px.png">Fairmount Company buys land from Milton to build part of Hyde Park</event>
+  <event start="Jan 1 1857 00:00:00 GMT" caption="Hotel Pelham. introduces \&quot;French Flat\&quot; apartment house to Boston" isDuration="false" icon="../img/bp-cat4-8px.png">Hotel Pelham. introduces \"French Flat\" apartment house to Boston</event>
+  <event start="Jan 1 1865 00:00:00 GMT" caption="Old City Hall" isDuration="false" icon="../img/bp-cat4-8px.png">Old City Hall</event>
+  <event start="Jan 1 1867 00:00:00 GMT" caption="cornerstone laid for Cathedral of the Holy Cross" isDuration="false" icon="../img/bp-cat4-8px.png">cornerstone laid for Cathedral of the Holy Cross</event>
+  <event start="Jan 1 1869 00:00:00 GMT" caption="Great Coliseum" isDuration="false" icon="../img/bp-cat4-8px.png">Great Coliseum</event>
+  <event start="Jan 1 1870 00:00:00 GMT" caption="Streetcar suburb growth 1870-1900" isDuration="false" icon="../img/bp-cat4-8px.png">Streetcar suburb growth 1870-1900</event>
+  <event start="Jan 1 1871 00:00:00 GMT" caption="Mission Church" isDuration="false" icon="../img/bp-cat4-8px.png">Mission Church</event>
+  <event start="Jan 1 1873 00:00:00 GMT" caption="450 Buildings constructed in fire zone" isDuration="false" icon="../img/bp-cat4-8px.png">450 Buildings constructed in fire zone</event>
+  <event start="Jan 1 1874 00:00:00 GMT" caption="Completed landmaking allows and the Great Fire necessitates moving and establishment of institutions to Copley Square and Back Bay" isDuration="false" icon="../img/bp-cat4-8px.png">Completed landmaking allows and the Great Fire necessitates moving and establishment of institutions to Copley Square and Back Bay</event>
+  <event start="Jan 1 1875 00:00:00 GMT" caption="Cathedral of the Holy Cross opens" isDuration="false" icon="../img/bp-cat4-8px.png">Cathedral of the Holy Cross opens</event>
+  <event start="Jan 1 1876 00:00:00 GMT" caption="MFA in Copley" isDuration="false" icon="../img/bp-cat4-8px.png">MFA in Copley</event>
+  <event start="Jan 1 1877 00:00:00 GMT" caption="Trinity Church. Copley" isDuration="false" icon="../img/bp-cat4-8px.png">Trinity Church. Copley</event>
+  <event start="Jan 1 1880 00:00:00 GMT" caption="The three-decker housing form appears in Boston" isDuration="false" icon="../img/bp-cat4-8px.png">The three-decker housing form appears in Boston</event>
+  <event start="Jan 1 1882 00:00:00 GMT" caption="Old State House rededicated" isDuration="false" icon="../img/bp-cat4-8px.png">Old State House rededicated</event>
+  <event start="Jan 1 1884 00:00:00 GMT" caption="Cyclorama Building" isDuration="false" icon="../img/bp-cat4-8px.png">Cyclorama Building</event>
+  <event start="Jan 1 1889 00:00:00 GMT" caption="14 story Ames Building on Court St tallest in Boston. last tower before steel-framed construction" isDuration="false" icon="../img/bp-cat4-8px.png">14 story Ames Building on Court St tallest in Boston. last tower before steel-framed construction</event>
+  <event start="Jan 1 1891 00:00:00 GMT" caption="composer streets" isDuration="false" icon="../img/bp-cat4-8px.png">composer streets</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="125' Height Limit" isDuration="false" icon="../img/bp-cat4-8px.png">125' Height Limit</event>
+  <event start="Jan 1 1893 00:00:00 GMT" caption="Winthrop Building at 276-278 Washington Boston's 1st steel-framed skyscraper" isDuration="false" icon="../img/bp-cat4-8px.png">Winthrop Building at 276-278 Washington Boston's 1st steel-framed skyscraper</event>
+  <event start="Jan 1 1894 00:00:00 GMT" caption="Mission Hill area" isDuration="false" icon="../img/bp-cat4-8px.png">Mission Hill area</event>
+  <event start="Jan 1 1895 00:00:00 GMT" caption="Copley BPL opens" isDuration="false" icon="../img/bp-cat4-8px.png">Copley BPL opens</event>
+  <event start="Jan 1 1898 00:00:00 GMT" caption="90' Height Limit in Back Bay" isDuration="false" icon="../img/bp-cat4-8px.png">90' Height Limit in Back Bay</event>
+  <event start="Jan 1 1899 00:00:00 GMT" caption="South Station" isDuration="false" icon="../img/bp-cat4-8px.png">South Station</event>
+  <event start="Jan 1 1904 00:00:00 GMT" caption="Boston institutes height limits. first US city to use this kind of zoning" isDuration="false" icon="../img/bp-cat4-8px.png">Boston institutes height limits. first US city to use this kind of zoning</event>
+  <event start="Jan 1 1906 00:00:00 GMT" caption="First Church of Christ. Scientist" isDuration="false" icon="../img/bp-cat4-8px.png">First Church of Christ. Scientist</event>
+  <event start="Jan 1 1909 00:00:00 GMT" caption="MFA on Huntington" isDuration="false" icon="../img/bp-cat4-8px.png">MFA on Huntington</event>
+  <event start="Jan 1 1915 00:00:00 GMT" caption="Custom House Tower addition completed; Braves field" isDuration="false" icon="../img/bp-cat4-8px.png">Custom House Tower addition completed; Braves field</event>
+  <event start="Jan 1 1918 00:00:00 GMT" caption="Strand Theater" isDuration="false" icon="../img/bp-cat4-8px.png">Strand Theater</event>
+  <event start="Jan 1 1919 00:00:00 GMT" caption="Chinese merchants building" isDuration="false" icon="../img/bp-cat4-8px.png">Chinese merchants building</event>
+  <event start="Jan 1 1922 00:00:00 GMT" caption="Boston Latin in Fenway" isDuration="false" icon="../img/bp-cat4-8px.png">Boston Latin in Fenway</event>
+  <event start="Jan 1 1923 00:00:00 GMT" caption="Downtown height limit increased to 155 ft" isDuration="false" icon="../img/bp-cat4-8px.png">Downtown height limit increased to 155 ft</event>
+  <event start="Jan 1 1926 00:00:00 GMT" caption="Set-back requirements end building of traditional three-decker" isDuration="false" icon="../img/bp-cat4-8px.png">Set-back requirements end building of traditional three-decker</event>
+  <event start="Jan 1 1928 00:00:00 GMT" caption="North Station; Boston Garden" isDuration="false" icon="../img/bp-cat4-8px.png">North Station; Boston Garden</event>
+  <event start="Jan 1 1935 00:00:00 GMT" caption="BHA created" isDuration="false" icon="../img/bp-cat4-8px.png">BHA created</event>
+  <event start="Jan 1 1938 00:00:00 GMT" caption="Old Harbor opens. 1st federal public housing in US" isDuration="false" icon="../img/bp-cat4-8px.png">Old Harbor opens. 1st federal public housing in US</event>
+  <event start="Jan 1 1939 00:00:00 GMT" caption="Pemberton Sq courthouse" isDuration="false" icon="../img/bp-cat4-8px.png">Pemberton Sq courthouse</event>
+  <event start="Jan 1 1940 00:00:00 GMT" caption="Citgo sign" isDuration="false" icon="../img/bp-cat4-8px.png">Citgo sign</event>
+  <event start="Jan 1 1942 00:00:00 GMT" caption="New England Mutual Life Insurance Building" isDuration="false" icon="../img/bp-cat4-8px.png">New England Mutual Life Insurance Building</event>
+  <event start="Jan 1 1945 00:00:00 GMT" caption="Orchard Park" isDuration="false" icon="../img/bp-cat4-8px.png">Orchard Park</event>
+  <event start="Jan 1 1947 00:00:00 GMT" caption="Old" isDuration="false" icon="../img/bp-cat4-8px.png">Old</event>
+  <event start="Jan 1 1948 00:00:00 GMT" caption="BU move to Com Ave location" isDuration="false" icon="../img/bp-cat4-8px.png">BU move to Com Ave location</event>
+  <event start="Jan 1 1949 00:00:00 GMT" caption="West Broadway \&quot;D St\&quot; projects open" isDuration="false" icon="../img/bp-cat4-8px.png">West Broadway \"D St\" projects open</event>
+  <event start="Jan 1 1951 00:00:00 GMT" caption="Archdale. Cathedral. and Commonwealth housing projects open" isDuration="false" icon="../img/bp-cat4-8px.png">Archdale. Cathedral. and Commonwealth housing projects open</event>
+  <event start="Jan 1 1952 00:00:00 GMT" caption="Franklin Hill. Alice Taylor. and Orient Heights projects open" isDuration="false" icon="../img/bp-cat4-8px.png">Franklin Hill. Alice Taylor. and Orient Heights projects open</event>
+  <event start="Jan 1 1953 00:00:00 GMT" caption="Whittier St housing project" isDuration="false" icon="../img/bp-cat4-8px.png">Whittier St housing project</event>
+  <event start="Jan 1 1954 00:00:00 GMT" caption="Bromley Park. Columbia Point. and Franklin Field projects" isDuration="false" icon="../img/bp-cat4-8px.png">Bromley Park. Columbia Point. and Franklin Field projects</event>
+  <event start="Jan 1 1959 00:00:00 GMT" caption="Travelers Building. first major office building in 12 years" isDuration="false" icon="../img/bp-cat4-8px.png">Travelers Building. first major office building in 12 years</event>
+  <event start="Jan 1 1962 00:00:00 GMT" caption="Charles River Park" isDuration="false" icon="../img/bp-cat4-8px.png">Charles River Park</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="Prudential Center. tallest building outside Manhattan" isDuration="false" icon="../img/bp-cat4-8px.png">Prudential Center. tallest building outside Manhattan</event>
+  <event start="Jan 1 1969 00:00:00 GMT" caption="new City Hall opens" isDuration="false" icon="../img/bp-cat4-8px.png">new City Hall opens</event>
+  <event start="Jan 1 1971 00:00:00 GMT" caption="Harbor Towers" isDuration="false" icon="../img/bp-cat4-8px.png">Harbor Towers</event>
+  <event start="Jan 1 1974 00:00:00 GMT" caption="Mishawum Park (Charlestown) housing project" isDuration="false" icon="../img/bp-cat4-8px.png">Mishawum Park (Charlestown) housing project</event>
+  <event start="Jan 1 1976 00:00:00 GMT" caption="Quincy Market renovation" isDuration="false" icon="../img/bp-cat4-8px.png">Quincy Market renovation</event>
+  <event start="Jan 1 1977 00:00:00 GMT" caption="Madison Park High School" isDuration="false" icon="../img/bp-cat4-8px.png">Madison Park High School</event>
+  <event start="Jan 1 1979 00:00:00 GMT" caption="JFK Library" isDuration="false" icon="../img/bp-cat4-8px.png">JFK Library</event>
+  <event start="Jan 1 1986 00:00:00 GMT" caption="BRA announces South End Neighborhood Housing Initiative" isDuration="false" icon="../img/bp-cat4-8px.png">BRA announces South End Neighborhood Housing Initiative</event>
+  <event start="Jan 1 1995 00:00:00 GMT" caption="Boston Garden closes" isDuration="false" icon="../img/bp-cat4-8px.png">Boston Garden closes</event>
+  <event start="Jan 1 1997 00:00:00 GMT" caption="Archdiocese-built Lowell Sq housing development 1st affordable housing in West End since demolition" isDuration="false" icon="../img/bp-cat4-8px.png">Archdiocese-built Lowell Sq housing development 1st affordable housing in West End since demolition</event>
+  <event start="Jan 1 1998 00:00:00 GMT" caption="Moakley Courthouse" isDuration="false" icon="../img/bp-cat4-8px.png">Moakley Courthouse</event>
+  <event start="Jan 1 1999 00:00:00 GMT" caption="Grove Hall Mall" isDuration="false" icon="../img/bp-cat4-8px.png">Grove Hall Mall</event>
+  <event start="Jan 1 2003 00:00:00 GMT" caption="Orchard Gardens Elementary. 1st new school in Roxbury in 50 years" isDuration="false" icon="../img/bp-cat4-8px.png">Orchard Gardens Elementary. 1st new school in Roxbury in 50 years</event>
+  <event start="Jan 1 2004 00:00:00 GMT" caption="Boston Convention and Exhibition Center" isDuration="false" icon="../img/bp-cat4-8px.png">Boston Convention and Exhibition Center</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="Grainary Exchange Building" isDuration="false" icon="../img/bp-cat4-8px.png">Grainary Exchange Building</event>
+  <event start="Jan 1 1894 00:00:00 GMT" caption="Suffolk County Courthouse in Pemberton Sq" isDuration="false" icon="../img/bp-cat4-8px.png">Suffolk County Courthouse in Pemberton Sq</event>
+  <event start="Jan 1 1895 00:00:00 GMT" caption="Ferdinand Building. Dudley Sq" isDuration="false" icon="../img/bp-cat4-8px.png">Ferdinand Building. Dudley Sq</event>
+  <event start="Jan 1 1928 00:00:00 GMT" caption="Temple Israel on Riverway" isDuration="false" icon="../img/bp-cat4-8px.png">Temple Israel on Riverway</event>
+  <event start="Jan 1 1940 00:00:00 GMT" caption="Charlestown. Lenox St. Mission Main. and Old Colony Housing Projects open" isDuration="false" icon="../img/bp-cat4-8px.png">Charlestown. Lenox St. Mission Main. and Old Colony Housing Projects open</event>
+  <event start="Jan 1 1942 00:00:00 GMT" caption="Orchard Park. Heath St. Maverick housing projects open" isDuration="false" icon="../img/bp-cat4-8px.png">Orchard Park. Heath St. Maverick housing projects open</event>
+  <event start="Jan 1 1947 00:00:00 GMT" caption="Boston Trailer Park in West Roxbury. currently only remaining mobile home park in Boston" isDuration="false" icon="../img/bp-cat4-8px.png">Boston Trailer Park in West Roxbury. currently only remaining mobile home park in Boston</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="Hynes Convention Center" isDuration="false" icon="../img/bp-cat4-8px.png">Hynes Convention Center</event>
+  <event start="Jan 1 1969 00:00:00 GMT" caption="New England Aquarium" isDuration="false" icon="../img/bp-cat4-8px.png">New England Aquarium</event>
+  <event start="Jan 1 1971 00:00:00 GMT" caption="Park Plaza development stopped" isDuration="false" icon="../img/bp-cat4-8px.png">Park Plaza development stopped</event>
+  <event start="Jan 1 1976 00:00:00 GMT" caption="Hancock Tower" isDuration="false" icon="../img/bp-cat4-8px.png">Hancock Tower</event>
+  <event start="Jan 1 1999 00:00:00 GMT" caption="New Chardon St Courthouse" isDuration="false" icon="../img/bp-cat4-8px.png">New Chardon St Courthouse</event>
+</data>

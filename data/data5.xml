@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<data>
+  <event start="Jan 1 1800 00:00:00 GMT" caption="Charlestown Navy Yard" isDuration="false" icon="../img/bp-cat5-8px.png">Charlestown Navy Yard</event>
+  <event start="Jan 1 1803 00:00:00 GMT" caption="Chelsea-Charlestown Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Chelsea-Charlestown Bridge</event>
+  <event start="Jan 1 1803 00:00:00 GMT" caption="Middlesex Canal" isDuration="false" icon="../img/bp-cat5-8px.png">Middlesex Canal</event>
+  <event start="Jan 1 1803 00:00:00 GMT" caption="Salem Turnpike" isDuration="false" icon="../img/bp-cat5-8px.png">Salem Turnpike</event>
+  <event start="Jan 1 1804 00:00:00 GMT" caption="Dover St bridge connects to South Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Dover St bridge connects to South Boston</event>
+  <event start="Jan 1 1804 00:00:00 GMT" caption="Milton Turnpike. now Dorchester Ave" isDuration="false" icon="../img/bp-cat5-8px.png">Milton Turnpike. now Dorchester Ave</event>
+  <event start="Jan 1 1807 00:00:00 GMT" caption="Worcester Turnpike. now rt 9" isDuration="false" icon="../img/bp-cat5-8px.png">Worcester Turnpike. now rt 9</event>
+  <event start="Jan 1 1809 00:00:00 GMT" caption="Craigie Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Craigie Bridge</event>
+  <event start="Jan 1 1810 00:00:00 GMT" caption="Broad Canal opens access to East Cambridge industry" isDuration="false" icon="../img/bp-cat5-8px.png">Broad Canal opens access to East Cambridge industry</event>
+  <event start="Jan 1 1811 00:00:00 GMT" caption="Boston requires registration of all trucks and sleds" isDuration="false" icon="../img/bp-cat5-8px.png">Boston requires registration of all trucks and sleds</event>
+  <event start="Jan 1 1815 00:00:00 GMT" caption="Prison point bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Prison point bridge</event>
+  <event start="Jan 1 1820 00:00:00 GMT" caption="Horse-drawn coaches run on set schedules to nearby towns" isDuration="false" icon="../img/bp-cat5-8px.png">Horse-drawn coaches run on set schedules to nearby towns</event>
+  <event start="Jan 1 1825 00:00:00 GMT" caption="MA decides not to build canal from Harbor to CT River and Hudson River" isDuration="false" icon="../img/bp-cat5-8px.png">MA decides not to build canal from Harbor to CT River and Hudson River</event>
+  <event start="Jan 1 1826 00:00:00 GMT" caption="Granite Railway in Quincy is 1st commercial railroad in US" isDuration="false" icon="../img/bp-cat5-8px.png">Granite Railway in Quincy is 1st commercial railroad in US</event>
+  <event start="Jan 1 1826 00:00:00 GMT" caption="omnibus service begins in Boston" isDuration="false" icon="../img/bp-cat5-8px.png">omnibus service begins in Boston</event>
+  <event start="Jan 1 1828 00:00:00 GMT" caption="Federal St bridge to South Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Federal St bridge to South Boston</event>
+  <event start="Jan 1 1828 00:00:00 GMT" caption="Warren St bridge to Charlestown" isDuration="false" icon="../img/bp-cat5-8px.png">Warren St bridge to Charlestown</event>
+  <event start="Jan 1 1831 00:00:00 GMT" caption="Whale oil street lamps replaced by gaslights" isDuration="false" icon="../img/bp-cat5-8px.png">Whale oil street lamps replaced by gaslights</event>
+  <event start="Jan 1 1831 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1832 00:00:00 GMT" caption="Tremont St between Boston and Roxbury. gives relief to Washington St" isDuration="false" icon="../img/bp-cat5-8px.png">Tremont St between Boston and Roxbury. gives relief to Washington St</event>
+  <event start="Jan 1 1833 00:00:00 GMT" caption="municipal ferry service to East Boston" isDuration="false" icon="../img/bp-cat5-8px.png">municipal ferry service to East Boston</event>
+  <event start="Jan 1 1834 00:00:00 GMT" caption="Chelsea St bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Chelsea St bridge</event>
+  <event start="Jan 1 1835 00:00:00 GMT" caption="public Railroads become operational" isDuration="false" icon="../img/bp-cat5-8px.png">public Railroads become operational</event>
+  <event start="Jan 1 1838 00:00:00 GMT" caption="Eastern Railoard. East Boston to Salem" isDuration="false" icon="../img/bp-cat5-8px.png">Eastern Railoard. East Boston to Salem</event>
+  <event start="Jan 1 1839 00:00:00 GMT" caption="commuter service on railroad begins" isDuration="false" icon="../img/bp-cat5-8px.png">commuter service on railroad begins</event>
+  <event start="Jan 1 1839 00:00:00 GMT" caption="horse-drawn streetcars reach Roxbury" isDuration="false" icon="../img/bp-cat5-8px.png">horse-drawn streetcars reach Roxbury</event>
+  <event start="Jan 1 1840 00:00:00 GMT" caption="Gas lines" isDuration="false" icon="../img/bp-cat5-8px.png">Gas lines</event>
+  <event start="Jan 1 1840 00:00:00 GMT" caption="shipping lines between East Boston and Liverpool open. contributing to Boston's place as a primary destination for Irish immigrants" isDuration="false" icon="../img/bp-cat5-8px.png">shipping lines between East Boston and Liverpool open. contributing to Boston's place as a primary destination for Irish immigrants</event>
+  <event start="Jan 1 1841 00:00:00 GMT" caption="Boston connected to Albany by rail" isDuration="false" icon="../img/bp-cat5-8px.png">Boston connected to Albany by rail</event>
+  <event start="Jan 1 1846 00:00:00 GMT" caption="Aquaduct construction begins" isDuration="false" icon="../img/bp-cat5-8px.png">Aquaduct construction begins</event>
+  <event start="Jan 1 1846 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1848 00:00:00 GMT" caption="Aquaduct from Lake Cochituate to Boston completed" isDuration="false" icon="../img/bp-cat5-8px.png">Aquaduct from Lake Cochituate to Boston completed</event>
+  <event start="Jan 1 1848 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1849 00:00:00 GMT" caption="Grand Junction Railroad" isDuration="false" icon="../img/bp-cat5-8px.png">Grand Junction Railroad</event>
+  <event start="Jan 1 1849 00:00:00 GMT" caption="Paul's Bridge. Hyde Park to Milton" isDuration="false" icon="../img/bp-cat5-8px.png">Paul's Bridge. Hyde Park to Milton</event>
+  <event start="Jan 1 1851 00:00:00 GMT" caption="Boston's 96 mile sewer system completed" isDuration="false" icon="../img/bp-cat5-8px.png">Boston's 96 mile sewer system completed</event>
+  <event start="Jan 1 1851 00:00:00 GMT" caption="Great Railroad Jubilee" isDuration="false" icon="../img/bp-cat5-8px.png">Great Railroad Jubilee</event>
+  <event start="Jan 1 1852 00:00:00 GMT" caption="first city fire alarm system" isDuration="false" icon="../img/bp-cat5-8px.png">first city fire alarm system</event>
+  <event start="Jan 1 1852 00:00:00 GMT" caption="last boat passes through Middlesex Canal" isDuration="false" icon="../img/bp-cat5-8px.png">last boat passes through Middlesex Canal</event>
+  <event start="Jan 1 1853 00:00:00 GMT" caption="horse drawn streetcars" isDuration="false" icon="../img/bp-cat5-8px.png">horse drawn streetcars</event>
+  <event start="Jan 1 1855 00:00:00 GMT" caption="Mount Washington Bridge over Fort Point Channel" isDuration="false" icon="../img/bp-cat5-8px.png">Mount Washington Bridge over Fort Point Channel</event>
+  <event start="Jan 1 1856 00:00:00 GMT" caption="Horsedrawn streetcars expand rapidly" isDuration="false" icon="../img/bp-cat5-8px.png">Horsedrawn streetcars expand rapidly</event>
+  <event start="Jan 1 1856 00:00:00 GMT" caption="Meridian St Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Meridian St Bridge</event>
+  <event start="Jan 1 1859 00:00:00 GMT" caption="Lynn and Boston Street Railway" isDuration="false" icon="../img/bp-cat5-8px.png">Lynn and Boston Street Railway</event>
+  <event start="Jan 1 1860 00:00:00 GMT" caption="Charlestown-Somerville-Medford street railway" isDuration="false" icon="../img/bp-cat5-8px.png">Charlestown-Somerville-Medford street railway</event>
+  <event start="Jan 1 1860 00:00:00 GMT" caption="Streetcar ridership 13 million" isDuration="false" icon="../img/bp-cat5-8px.png">Streetcar ridership 13 million</event>
+  <event start="Jan 1 1866 00:00:00 GMT" caption="Atlantic Telegraph Cable completed" isDuration="false" icon="../img/bp-cat5-8px.png">Atlantic Telegraph Cable completed</event>
+  <event start="Jan 1 1866 00:00:00 GMT" caption="L Street Bathhouse. 1st free municipal public baths in US" isDuration="false" icon="../img/bp-cat5-8px.png">L Street Bathhouse. 1st free municipal public baths in US</event>
+  <event start="Jan 1 1867 00:00:00 GMT" caption="Chelsea municipal water" isDuration="false" icon="../img/bp-cat5-8px.png">Chelsea municipal water</event>
+  <event start="Jan 1 1868 00:00:00 GMT" caption="Lawrence Basin Reservoir at Chestnut Hill" isDuration="false" icon="../img/bp-cat5-8px.png">Lawrence Basin Reservoir at Chestnut Hill</event>
+  <event start="Jan 1 1869 00:00:00 GMT" caption="Broadway Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Broadway Bridge</event>
+  <event start="Jan 1 1870 00:00:00 GMT" caption="1st through transcontinental train leaves Boston for San Francisco" isDuration="false" icon="../img/bp-cat5-8px.png">1st through transcontinental train leaves Boston for San Francisco</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Equine influenza brings transporation to a halt" isDuration="false" icon="../img/bp-cat5-8px.png">Equine influenza brings transporation to a halt</event>
+  <event start="Jan 1 1872 00:00:00 GMT" caption="Huntington Ave laid out" isDuration="false" icon="../img/bp-cat5-8px.png">Huntington Ave laid out</event>
+  <event start="Jan 1 1875 00:00:00 GMT" caption="Congress St Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">Congress St Bridge</event>
+  <event start="Jan 1 1876 00:00:00 GMT" caption="1st telephone exchange opens with 6 subscribers" isDuration="false" icon="../img/bp-cat5-8px.png">1st telephone exchange opens with 6 subscribers</event>
+  <event start="Jan 1 1876 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1880 00:00:00 GMT" caption="Boston rejects elevated steam-powered railroad" isDuration="false" icon="../img/bp-cat5-8px.png">Boston rejects elevated steam-powered railroad</event>
+  <event start="Jan 1 1880 00:00:00 GMT" caption="Streetcar ridership exceeds 62 million;" isDuration="false" icon="../img/bp-cat5-8px.png">Streetcar ridership exceeds 62 million;</event>
+  <event start="Jan 1 1883 00:00:00 GMT" caption="Calf Pasture Pumping Station. 1st sewage pumping station in Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Calf Pasture Pumping Station. 1st sewage pumping station in Boston</event>
+  <event start="Jan 1 1884 00:00:00 GMT" caption="Main Drainage System. connected to pumping station at Moon Island most modern system of its time" isDuration="false" icon="../img/bp-cat5-8px.png">Main Drainage System. connected to pumping station at Moon Island most modern system of its time</event>
+  <event start="Jan 1 1885 00:00:00 GMT" caption="Boston completes America's 1st main drainage system. deposits sewage off Moon Island" isDuration="false" icon="../img/bp-cat5-8px.png">Boston completes America's 1st main drainage system. deposits sewage off Moon Island</event>
+  <event start="Jan 1 1885 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1887 00:00:00 GMT" caption="West End Railway consolidates street cars" isDuration="false" icon="../img/bp-cat5-8px.png">West End Railway consolidates street cars</event>
+  <event start="Jan 1 1888 00:00:00 GMT" caption="1st Electric Streetcar" isDuration="false" icon="../img/bp-cat5-8px.png">1st Electric Streetcar</event>
+  <event start="Jan 1 1888 00:00:00 GMT" caption="Boston Electric Light Company. generating station on L st" isDuration="false" icon="../img/bp-cat5-8px.png">Boston Electric Light Company. generating station on L st</event>
+  <event start="Jan 1 1890 00:00:00 GMT" caption="Telephone service widely available" isDuration="false" icon="../img/bp-cat5-8px.png">Telephone service widely available</event>
+  <event start="Jan 1 1890 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1891 00:00:00 GMT" caption="Rapid Transit Commission formed" isDuration="false" icon="../img/bp-cat5-8px.png">Rapid Transit Commission formed</event>
+  <event start="Jan 1 1891 00:00:00 GMT" caption="West End Railway's elevated line proposal defeated despite legislative approval" isDuration="false" icon="../img/bp-cat5-8px.png">West End Railway's elevated line proposal defeated despite legislative approval</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="Electric streetcars begin operation in South Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Electric streetcars begin operation in South Boston</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="Garbage processing plant opens on Moon Island" isDuration="false" icon="../img/bp-cat5-8px.png">Garbage processing plant opens on Moon Island</event>
+  <event start="Jan 1 1892 00:00:00 GMT" caption="L St Bridge" isDuration="false" icon="../img/bp-cat5-8px.png">L St Bridge</event>
+  <event start="Jan 1 1893 00:00:00 GMT" caption="Bathhouse " isDuration="false" icon="../img/bp-cat5-8px.png">Bathhouse </event>
+  <event start="Jan 1 1893 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1894 00:00:00 GMT" caption="Jamaicaway Completed" isDuration="false" icon="../img/bp-cat5-8px.png">Jamaicaway Completed</event>
+  <event start="Jan 1 1894 00:00:00 GMT" caption="most horsedrawn streetcars disappear; 90% electrified. 137 million passengers" isDuration="false" icon="../img/bp-cat5-8px.png">most horsedrawn streetcars disappear; 90% electrified. 137 million passengers</event>
+  <event start="Jan 1 1895 00:00:00 GMT" caption="constuction on subway begins" isDuration="false" icon="../img/bp-cat5-8px.png">constuction on subway begins</event>
+  <event start="Jan 1 1895 00:00:00 GMT" caption="Revere Beach Parkway" isDuration="false" icon="../img/bp-cat5-8px.png">Revere Beach Parkway</event>
+  <event start="Jan 1 1896 00:00:00 GMT" caption="Boston is first city to completely electify streetcar system" isDuration="false" icon="../img/bp-cat5-8px.png">Boston is first city to completely electify streetcar system</event>
+  <event start="Jan 1 1896 00:00:00 GMT" caption="Electric streetcars extend from Forest Hills to West Roxbury" isDuration="false" icon="../img/bp-cat5-8px.png">Electric streetcars extend from Forest Hills to West Roxbury</event>
+  <event start="Jan 1 1897 00:00:00 GMT" caption="America's First Subway opens" isDuration="false" icon="../img/bp-cat5-8px.png">America's First Subway opens</event>
+  <event start="Jan 1 1897 00:00:00 GMT" caption="State commission declares needs of Boston port facilities. results in Noddle's Island fill and plans for a pier on South Boston flats" isDuration="false" icon="../img/bp-cat5-8px.png">State commission declares needs of Boston port facilities. results in Noddle's Island fill and plans for a pier on South Boston flats</event>
+  <event start="Jan 1 1898 00:00:00 GMT" caption="Subway extended to North Station" isDuration="false" icon="../img/bp-cat5-8px.png">Subway extended to North Station</event>
+  <event start="Jan 1 1898 00:00:00 GMT" caption="Sudbury Reservoir replaces Lake Cochituate" isDuration="false" icon="../img/bp-cat5-8px.png">Sudbury Reservoir replaces Lake Cochituate</event>
+  <event start="Jan 1 1899 00:00:00 GMT" caption="Automobiles arrive on the streets" isDuration="false" icon="../img/bp-cat5-8px.png">Automobiles arrive on the streets</event>
+  <event start="Jan 1 1899 00:00:00 GMT" caption="Back Bay Station opens" isDuration="false" icon="../img/bp-cat5-8px.png">Back Bay Station opens</event>
+  <event start="Jan 1 1899 00:00:00 GMT" caption="South Station opens; reigns as largest and buisest rail station in the world for 2 decades" isDuration="false" icon="../img/bp-cat5-8px.png">South Station opens; reigns as largest and buisest rail station in the world for 2 decades</event>
+  <event start="Jan 1 1900 00:00:00 GMT" caption="Last horsecar line terminated" isDuration="false" icon="../img/bp-cat5-8px.png">Last horsecar line terminated</event>
+  <event start="Jan 1 1900 00:00:00 GMT" caption="Old Colony railroad bridge across Ft Point Channel" isDuration="false" icon="../img/bp-cat5-8px.png">Old Colony railroad bridge across Ft Point Channel</event>
+  <event start="Jan 1 1901 00:00:00 GMT" caption="Sullivan to Dudley and Atlantic Ave Elevated Lines Open" isDuration="false" icon="../img/bp-cat5-8px.png">Sullivan to Dudley and Atlantic Ave Elevated Lines Open</event>
+  <event start="Jan 1 1904 00:00:00 GMT" caption="Streetcar Tunnel to East Boston opens" isDuration="false" icon="../img/bp-cat5-8px.png">Streetcar Tunnel to East Boston opens</event>
+  <event start="Jan 1 1905 00:00:00 GMT" caption="Boston-Worcester streetcar service begins" isDuration="false" icon="../img/bp-cat5-8px.png">Boston-Worcester streetcar service begins</event>
+  <event start="Jan 1 1906 00:00:00 GMT" caption="Wachusett Reservoir opens" isDuration="false" icon="../img/bp-cat5-8px.png">Wachusett Reservoir opens</event>
+  <event start="Jan 1 1906 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1908 00:00:00 GMT" caption="Northern Avenue bridge to South Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Northern Avenue bridge to South Boston</event>
+  <event start="Jan 1 1908 00:00:00 GMT" caption="state first proposes system of radial and circumferential highways" isDuration="false" icon="../img/bp-cat5-8px.png">state first proposes system of radial and circumferential highways</event>
+  <event start="Jan 1 1909 00:00:00 GMT" caption="Dana Ave bridge over Neponset" isDuration="false" icon="../img/bp-cat5-8px.png">Dana Ave bridge over Neponset</event>
+  <event start="Jan 1 1909 00:00:00 GMT" caption="El extended from Dudley to Forest Hills" isDuration="false" icon="../img/bp-cat5-8px.png">El extended from Dudley to Forest Hills</event>
+  <event start="Jan 1 1910 00:00:00 GMT" caption="Charles River Dam" isDuration="false" icon="../img/bp-cat5-8px.png">Charles River Dam</event>
+  <event start="Jan 1 1910 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1912 00:00:00 GMT" caption="Boston fish pier. largest in world at time" isDuration="false" icon="../img/bp-cat5-8px.png">Boston fish pier. largest in world at time</event>
+  <event start="Jan 1 1912 00:00:00 GMT" caption="Garbage processing plant moved to Spectacle Island" isDuration="false" icon="../img/bp-cat5-8px.png">Garbage processing plant moved to Spectacle Island</event>
+  <event start="Jan 1 1912 00:00:00 GMT" caption="Park St to Harvard Subway opens; Green line to Lechmere via East Cambridge viaduct" isDuration="false" icon="../img/bp-cat5-8px.png">Park St to Harvard Subway opens; Green line to Lechmere via East Cambridge viaduct</event>
+  <event start="Jan 1 1913 00:00:00 GMT" caption="Commonwealth Pier opens to accommodate ocean liners" isDuration="false" icon="../img/bp-cat5-8px.png">Commonwealth Pier opens to accommodate ocean liners</event>
+  <event start="Jan 1 1913 00:00:00 GMT" caption="" isDuration="false" icon="../img/bp-cat5-8px.png"></event>
+  <event start="Jan 1 1914 00:00:00 GMT" caption="Green Line subway extends to Kenmore Sq" isDuration="false" icon="../img/bp-cat5-8px.png">Green Line subway extends to Kenmore Sq</event>
+  <event start="Jan 1 1917 00:00:00 GMT" caption="Red Line extends to Broadway" isDuration="false" icon="../img/bp-cat5-8px.png">Red Line extends to Broadway</event>
+  <event start="Jan 1 1919 00:00:00 GMT" caption="El extended to Everett" isDuration="false" icon="../img/bp-cat5-8px.png">El extended to Everett</event>
+  <event start="Jan 1 1921 00:00:00 GMT" caption="Charles St widened" isDuration="false" icon="../img/bp-cat5-8px.png">Charles St widened</event>
+  <event start="Jan 1 1922 00:00:00 GMT" caption="BERC takes over WER" isDuration="false" icon="../img/bp-cat5-8px.png">BERC takes over WER</event>
+  <event start="Jan 1 1922 00:00:00 GMT" caption="First Motor Bus route" isDuration="false" icon="../img/bp-cat5-8px.png">First Motor Bus route</event>
+  <event start="Jan 1 1923 00:00:00 GMT" caption="Boston airport opens" isDuration="false" icon="../img/bp-cat5-8px.png">Boston airport opens</event>
+  <event start="Jan 1 1923 00:00:00 GMT" caption="Morrissey Blvd (nee Old Colony Pkway)" isDuration="false" icon="../img/bp-cat5-8px.png">Morrissey Blvd (nee Old Colony Pkway)</event>
+  <event start="Jan 1 1924 00:00:00 GMT" caption="East Boston tunnel converted to rapid transit" isDuration="false" icon="../img/bp-cat5-8px.png">East Boston tunnel converted to rapid transit</event>
+  <event start="Jan 1 1926 00:00:00 GMT" caption="Quabbin Reservoir construction begins" isDuration="false" icon="../img/bp-cat5-8px.png">Quabbin Reservoir construction begins</event>
+  <event start="Jan 1 1926 00:00:00 GMT" caption="Weeks footbridge" isDuration="false" icon="../img/bp-cat5-8px.png">Weeks footbridge</event>
+  <event start="Jan 1 1927 00:00:00 GMT" caption="First commercial passenger flights at Boston airport" isDuration="false" icon="../img/bp-cat5-8px.png">First commercial passenger flights at Boston airport</event>
+  <event start="Jan 1 1927 00:00:00 GMT" caption="Old Rt 128" isDuration="false" icon="../img/bp-cat5-8px.png">Old Rt 128</event>
+  <event start="Jan 1 1928 00:00:00 GMT" caption="Subway to Ashmont opens" isDuration="false" icon="../img/bp-cat5-8px.png">Subway to Ashmont opens</event>
+  <event start="Jan 1 1929 00:00:00 GMT" caption="Ashmont-Mattapan trolley" isDuration="false" icon="../img/bp-cat5-8px.png">Ashmont-Mattapan trolley</event>
+  <event start="Jan 1 1930 00:00:00 GMT" caption="1st Central Artery proposal; 1st boston traffic light" isDuration="false" icon="../img/bp-cat5-8px.png">1st Central Artery proposal; 1st boston traffic light</event>
+  <event start="Jan 1 1930 00:00:00 GMT" caption="Boston-Worcester streetcar service discontinued" isDuration="false" icon="../img/bp-cat5-8px.png">Boston-Worcester streetcar service discontinued</event>
+  <event start="Jan 1 1932 00:00:00 GMT" caption="Storrow Drive" isDuration="false" icon="../img/bp-cat5-8px.png">Storrow Drive</event>
+  <event start="Jan 1 1934 00:00:00 GMT" caption="Sumner Tunnel" isDuration="false" icon="../img/bp-cat5-8px.png">Sumner Tunnel</event>
+  <event start="Jan 1 1936 00:00:00 GMT" caption="1st Trackless Trolley line opens" isDuration="false" icon="../img/bp-cat5-8px.png">1st Trackless Trolley line opens</event>
+  <event start="Jan 1 1938 00:00:00 GMT" caption="Atlantic Avenue El closes" isDuration="false" icon="../img/bp-cat5-8px.png">Atlantic Avenue El closes</event>
+  <event start="Jan 1 1938 00:00:00 GMT" caption="Planning Board recommends Central Artery" isDuration="false" icon="../img/bp-cat5-8px.png">Planning Board recommends Central Artery</event>
+  <event start="Jan 1 1943 00:00:00 GMT" caption="Boston Airport expanded. renamed Logan" isDuration="false" icon="../img/bp-cat5-8px.png">Boston Airport expanded. renamed Logan</event>
+  <event start="Jan 1 1945 00:00:00 GMT" caption="South Station's peak travel year. services 45 million passengers (roughly beijing central's ridership)" isDuration="false" icon="../img/bp-cat5-8px.png">South Station's peak travel year. services 45 million passengers (roughly beijing central's ridership)</event>
+  <event start="Jan 1 1946 00:00:00 GMT" caption="Quabbin Reservoir begins operation" isDuration="false" icon="../img/bp-cat5-8px.png">Quabbin Reservoir begins operation</event>
+  <event start="Jan 1 1947 00:00:00 GMT" caption="MTA created" isDuration="false" icon="../img/bp-cat5-8px.png">MTA created</event>
+  <event start="Jan 1 1948 00:00:00 GMT" caption="State publishes highway master plan calling for Storrow Dr. Central Artery. Inner Belt and Rt 128" isDuration="false" icon="../img/bp-cat5-8px.png">State publishes highway master plan calling for Storrow Dr. Central Artery. Inner Belt and Rt 128</event>
+  <event start="Jan 1 1950 00:00:00 GMT" caption="Greyhound bus station" isDuration="false" icon="../img/bp-cat5-8px.png">Greyhound bus station</event>
+  <event start="Jan 1 1950 00:00:00 GMT" caption="Mystic River/Tobin Bridge opens" isDuration="false" icon="../img/bp-cat5-8px.png">Mystic River/Tobin Bridge opens</event>
+  <event start="Jan 1 1951 00:00:00 GMT" caption="1st segment of limited-access highway 128 opens" isDuration="false" icon="../img/bp-cat5-8px.png">1st segment of limited-access highway 128 opens</event>
+  <event start="Jan 1 1951 00:00:00 GMT" caption="Central Artery construction begins" isDuration="false" icon="../img/bp-cat5-8px.png">Central Artery construction begins</event>
+  <event start="Jan 1 1951 00:00:00 GMT" caption="Storrow Drive opens" isDuration="false" icon="../img/bp-cat5-8px.png">Storrow Drive opens</event>
+  <event start="Jan 1 1952 00:00:00 GMT" caption="Buses replace streetcars in East Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Buses replace streetcars in East Boston</event>
+  <event start="Jan 1 1952 00:00:00 GMT" caption="ferry service to East Boston ends" isDuration="false" icon="../img/bp-cat5-8px.png">ferry service to East Boston ends</event>
+  <event start="Jan 1 1953 00:00:00 GMT" caption="Electric streetcar service in South Boston ends" isDuration="false" icon="../img/bp-cat5-8px.png">Electric streetcar service in South Boston ends</event>
+  <event start="Jan 1 1954 00:00:00 GMT" caption="Blue line extends to Wonderland" isDuration="false" icon="../img/bp-cat5-8px.png">Blue line extends to Wonderland</event>
+  <event start="Jan 1 1956 00:00:00 GMT" caption="Central Artery opens" isDuration="false" icon="../img/bp-cat5-8px.png">Central Artery opens</event>
+  <event start="Jan 1 1957 00:00:00 GMT" caption="MassPike west of 128 opens" isDuration="false" icon="../img/bp-cat5-8px.png">MassPike west of 128 opens</event>
+  <event start="Jan 1 1959 00:00:00 GMT" caption="South Bay Incinerator" isDuration="false" icon="../img/bp-cat5-8px.png">South Bay Incinerator</event>
+  <event start="Jan 1 1959 00:00:00 GMT" caption="Southeast Expressway opens" isDuration="false" icon="../img/bp-cat5-8px.png">Southeast Expressway opens</event>
+  <event start="Jan 1 1961 00:00:00 GMT" caption="Boston Common garage opens" isDuration="false" icon="../img/bp-cat5-8px.png">Boston Common garage opens</event>
+  <event start="Jan 1 1961 00:00:00 GMT" caption="Callahan Tunnel" isDuration="false" icon="../img/bp-cat5-8px.png">Callahan Tunnel</event>
+  <event start="Jan 1 1961 00:00:00 GMT" caption="Lenox St trolley discontinued" isDuration="false" icon="../img/bp-cat5-8px.png">Lenox St trolley discontinued</event>
+  <event start="Jan 1 1963 00:00:00 GMT" caption="I-93" isDuration="false" icon="../img/bp-cat5-8px.png">I-93</event>
+  <event start="Jan 1 1963 00:00:00 GMT" caption="Rt 3 \&quot;Pilgrim's Highway\&quot; completed" isDuration="false" icon="../img/bp-cat5-8px.png">Rt 3 \"Pilgrim's Highway\" completed</event>
+  <event start="Jan 1 1964 00:00:00 GMT" caption="MBTA replaces MTA" isDuration="false" icon="../img/bp-cat5-8px.png">MBTA replaces MTA</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="Mass Pike extension 128 to Central Artery" isDuration="false" icon="../img/bp-cat5-8px.png">Mass Pike extension 128 to Central Artery</event>
+  <event start="Jan 1 1965 00:00:00 GMT" caption="MBTA introduces T logo and color-codes subway lines" isDuration="false" icon="../img/bp-cat5-8px.png">MBTA introduces T logo and color-codes subway lines</event>
+  <event start="Jan 1 1967 00:00:00 GMT" caption="Boston Gas Company Tanks in Dorchester" isDuration="false" icon="../img/bp-cat5-8px.png">Boston Gas Company Tanks in Dorchester</event>
+  <event start="Jan 1 1968 00:00:00 GMT" caption="Deer Island Sewage Treatment plant" isDuration="false" icon="../img/bp-cat5-8px.png">Deer Island Sewage Treatment plant</event>
+  <event start="Jan 1 1969 00:00:00 GMT" caption="Green Line A train service \&quot;temporarily\&quot; suspended. never returns" isDuration="false" icon="../img/bp-cat5-8px.png">Green Line A train service \"temporarily\" suspended. never returns</event>
+  <event start="Jan 1 1970 00:00:00 GMT" caption="Gov. Sargent declares moratorium on highway construction in Boston" isDuration="false" icon="../img/bp-cat5-8px.png">Gov. Sargent declares moratorium on highway construction in Boston</event>
+  <event start="Jan 1 1971 00:00:00 GMT" caption="Red Line extends to Quincy Center" isDuration="false" icon="../img/bp-cat5-8px.png">Red Line extends to Quincy Center</event>
+  <event start="Jan 1 1972 00:00:00 GMT" caption="all proposed Interstate Highways within&#xA0;Route 128&#xA0;were canceled in 1972 by Governor&#xA0;Francis Sargent" isDuration="false" icon="../img/bp-cat5-8px.png">all proposed Interstate Highways within&#xA0;Route 128&#xA0;were canceled in 1972 by Governor&#xA0;Francis Sargent</event>
+  <event start="Jan 1 1973 00:00:00 GMT" caption="I-93 completed" isDuration="false" icon="../img/bp-cat5-8px.png">I-93 completed</event>
+  <event start="Jan 1 1974 00:00:00 GMT" caption="Logan terminal E. 2nd largest int'l arrivals facility in US" isDuration="false" icon="../img/bp-cat5-8px.png">Logan terminal E. 2nd largest int'l arrivals facility in US</event>
+  <event start="Jan 1 1975 00:00:00 GMT" caption="Downtown parking cap established" isDuration="false" icon="../img/bp-cat5-8px.png">Downtown parking cap established</event>
+  <event start="Jan 1 1980 00:00:00 GMT" caption="Red Line extends to Braintree" isDuration="false" icon="../img/bp-cat5-8px.png">Red Line extends to Braintree</event>
+  <event start="Jan 1 1982 00:00:00 GMT" caption="Big Dig project officially begins" isDuration="false" icon="../img/bp-cat5-8px.png">Big Dig project officially begins</event>
+  <event start="Jan 1 1984 00:00:00 GMT" caption="MWRA created" isDuration="false" icon="../img/bp-cat5-8px.png">MWRA created</event>
+  <event start="Jan 1 1985 00:00:00 GMT" caption="Red Line extends to Alewife" isDuration="false" icon="../img/bp-cat5-8px.png">Red Line extends to Alewife</event>
+  <event start="Jan 1 1988 00:00:00 GMT" caption="Orange Line El demolished" isDuration="false" icon="../img/bp-cat5-8px.png">Orange Line El demolished</event>
+  <event start="Jan 1 1991 00:00:00 GMT" caption="Big Dig construction begins" isDuration="false" icon="../img/bp-cat5-8px.png">Big Dig construction begins</event>
+  <event start="Jan 1 1995 00:00:00 GMT" caption="Ted Williams Tunnel opens" isDuration="false" icon="../img/bp-cat5-8px.png">Ted Williams Tunnel opens</event>
+  <event start="Jan 1 2002 00:00:00 GMT" caption="Silver Line bus to Dudley" isDuration="false" icon="../img/bp-cat5-8px.png">Silver Line bus to Dudley</event>
+  <event start="Jan 1 2003 00:00:00 GMT" caption="Big Dig tunnels open" isDuration="false" icon="../img/bp-cat5-8px.png">Big Dig tunnels open</event>
+  <event start="Jan 1 2003 00:00:00 GMT" caption="Ted Williams Tunnel" isDuration="false" icon="../img/bp-cat5-8px.png">Ted Williams Tunnel</event>
+  <event start="Jan 1 2006 00:00:00 GMT" caption="Final Big Dig ramps completed" isDuration="false" icon="../img/bp-cat5-8px.png">Final Big Dig ramps completed</event>
+  <event start="Jan 1 2006 00:00:00 GMT" caption="State abandons support of North-South Rail Link" isDuration="false" icon="../img/bp-cat5-8px.png">State abandons support of North-South Rail Link</event>
+</data>
